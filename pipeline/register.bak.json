@@ -4,11 +4,11 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-10-26T06:53:38Z",
-    "last_run": "2026-10-26T06:53:38Z",
+    "last_success": "2026-10-30T21:06:36Z",
+    "last_run": "2026-10-30T21:06:36Z",
     "last_sources": {
-      "tandf_rss": "ok (118 items)",
-      "crossref": "ok (9 works created since 2026-08-21)"
+      "tandf_rss": "ok (120 items)",
+      "crossref": "ok (11 works created since 2026-08-27)"
     }
   },
   "articles": {
@@ -1635,7 +1635,7 @@
       ],
       "status": "pre_existing",
       "first_detected": "2026-10-16T22:16:56Z",
-      "folder": "article-carousels\\Mesci - Automated assessment of the nature of",
+      "folder": "article-carousels/Mesci - Automated assessment of the nature of",
       "buffer_draft_id": "6ad29d4b1694d771d50a778b",
       "notes": "Buffer draft 6ad29d4b1694d771d50a778b created before this pipeline existed.",
       "events": [
@@ -2702,7 +2702,7 @@
       ],
       "status": "pre_existing",
       "first_detected": "2026-10-16T22:16:56Z",
-      "folder": "article-carousels\\Neubauer-Hametner - Profiles of inquiry-based instructional strategies in",
+      "folder": "article-carousels/Neubauer-Hametner - Profiles of inquiry-based instructional strategies in",
       "events": [
         {
           "at": "2026-10-16T22:16:59Z",
@@ -3218,8 +3218,8 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-10-26T06:52:51Z",
       "status": "pending_approval",
@@ -3233,7 +3233,7 @@
         {
           "at": "2026-10-26T06:56:45Z",
           "event": "draft_recorded",
-          "folder": "article-carousels\\Pürsün - Teaching science to students with learning"
+          "folder": "article-carousels/Pürsün - Teaching science to students with learning"
         },
         {
           "at": "2026-10-26T06:58:09Z",
@@ -3242,11 +3242,11 @@
           "buffer_status": "draft"
         }
       ],
-      "folder": "article-carousels\\Pürsün - Teaching science to students with learning",
+      "folder": "article-carousels/Pürsün - Teaching science to students with learning",
       "files": {
-        "pdf": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-carousel.pdf",
-        "caption": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-caption.txt",
-        "cover": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-slide-1.png"
+        "pdf": "article-carousels/Pürsün - Teaching science to students with learning/pursun-carousel.pdf",
+        "caption": "article-carousels/Pürsün - Teaching science to students with learning/pursun-caption.txt",
+        "cover": "article-carousels/Pürsün - Teaching science to students with learning/pursun-slide-1.png"
       },
       "hashes": {
         "pdf": "d3dfc162b74f3267bd302618f55874dbe111075f5b20b60e68d4a9731338d0de",
@@ -3274,8 +3274,8 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-10-26T06:52:51Z",
       "status": "pending_approval",
@@ -3289,20 +3289,92 @@
         {
           "at": "2026-10-26T06:56:45Z",
           "event": "draft_recorded",
-          "folder": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural"
+          "folder": "article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural"
+        },
+        {
+          "at": "2026-10-26T06:58:10Z",
+          "event": "buffer_draft_created",
+          "buffer_post_id": "6adef9fc1f120735cf954f77",
+          "buffer_status": "draft"
         }
       ],
-      "folder": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural",
+      "folder": "article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural",
       "files": {
-        "pdf": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-carousel.pdf",
-        "caption": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-caption.txt",
-        "cover": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-slide-1.png"
+        "pdf": "article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-carousel.pdf",
+        "caption": "article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-caption.txt",
+        "cover": "article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-slide-1.png"
       },
       "hashes": {
         "pdf": "4a9d80b7c149b378142ea7799ec296f3bba62e59e4b9a8633d1aadc1f3f0cfd2",
         "caption": "d5cfa507078d91207e5de926c6c8050a5bf66cb6aed8d9a6a8e284fa12485e25",
         "cover": "128e17d7d2f0d35d9a4c60aae3000422014ed0d1d863416284a8c64b54dc389d"
-      }
+      },
+      "buffer_draft_id": "6adef9fc1f120735cf954f77",
+      "buffer_draft_status": "draft",
+      "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2752293/shertayeva-carousel.pdf",
+      "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2752293/shertayeva-cover.png"
+    },
+    "10.1080/02635143.2026.2753076": {
+      "doi": "10.1080/02635143.2026.2753076",
+      "title": "Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course",
+      "authors": [
+        "Yan Liu",
+        "Yi Zong",
+        "Qi Zhao",
+        "Qi Wang"
+      ],
+      "online_date": "2026-10-29",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2753076",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-30T21:05:54Z",
+      "status": "needs_manual_review",
+      "events": [
+        {
+          "at": "2026-10-30T21:06:36Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-30T21:06:39Z",
+          "event": "flagged",
+          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+        }
+      ],
+      "manual_reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+    },
+    "10.1080/02635143.2026.2754282": {
+      "doi": "10.1080/02635143.2026.2754282",
+      "title": "Developing a questionnaire to measure junior high school students’ online science capital",
+      "authors": [
+        "Wei-Shou Chen",
+        "Chin‑Chung Tsai"
+      ],
+      "online_date": "2026-10-30",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2754282",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-30T21:05:54Z",
+      "status": "new",
+      "events": [
+        {
+          "at": "2026-10-30T21:06:36Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        }
+      ]
     }
   }
 }
