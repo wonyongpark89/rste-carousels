@@ -1,0 +1,42 @@
+{
+  "doi": "10.1080/02635143.2026.2731035",
+  "pages": {
+    "investigate": [
+      "Hand-scoring open-ended instruments such as the Views About Scientific Inquiry (VASI) is ==resource-intensive==.",
+      "The authors developed and validated a ==machine learning framework to automate scoring== of responses from 503 Turkish pre-service teachers.",
+      "They ==compared two approaches==: a feature-based Random Forest model and a transformer-based BERTurk model, using 5-fold cross-validation."
+    ],
+    "find": [
+      "The Random Forest model gave a ==reliable, stable baseline== that aligned strongly with expert scores.",
+      "BERTurk looked promising initially, but its performance ==collapsed non-reproducibly== in stability tests, highlighting fragility with limited data and a morphologically complex language.",
+      "The authors argue that ==stability and interpretability must take precedence== over peak performance."
+    ]
+  },
+  "caption": {
+    "emoji": "🔍",
+    "question": "Can machine learning reliably score open-ended responses about scientific inquiry?",
+    "intro": "Günkut Mesci, Xiaoming Zhai and Daniel K. Capps compare a **Random Forest model** and the transformer-based **BERTurk model** for scoring Views About Scientific Inquiry responses from 503 Turkish pre-service teachers.",
+    "hashtags": [
+      "ScienceEducation",
+      "NatureOfScientificInquiry",
+      "ScientificInquiry",
+      "MachineLearning",
+      "AIinEducation",
+      "EducationalAssessment",
+      "AutomatedScoring",
+      "TeacherEducation",
+      "PreserviceTeachers",
+      "NLP"
+    ]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose and Design/Methodology sections of the published abstract.",
+    "find": "Results and Conclusions sections of the published abstract. 'Argue' attributes the precedence claim to the authors; 'looked promising initially' renders 'despite showing high initial potential'.",
+    "caption": "Question and summary drawn from the abstract; no claims beyond it."
+  },
+  "approval": {
+    "status": "approved by the Editor",
+    "date": "2026-10-16",
+    "scope": "final carousel: page 1 (NEW ARTICLE tag, house-style affiliations), pages 2-3 (star bullets, marigold highlights), caption wording (single-paragraph format set 2026-10-16)"
+  }
+}

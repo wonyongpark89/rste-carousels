@@ -1,0 +1,108 @@
+{
+  "doi": "10.1080/02635143.2026.2752293",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2752293",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293",
+  "journal": "Research in Science & Technological Education",
+  "title": "Enhancing project-based chemistry learning in rural schools through virtual and augmented reality: evidence from Kazakhstan",
+  "type": "journal-article",
+  "published_online": "2026-10-23",
+  "authors": [
+    {
+      "name": "Nailya Shertayeva",
+      "given": "Nailya",
+      "family": "Shertayeva",
+      "orcid": null,
+      "affiliation_crossref": "South Kazakhstan Pedagogical University Named After O. Zhanibekov",
+      "affiliation_first": "Chemistry Department, South Kazakhstan Pedagogical University Named After O. Zhanibekov, Shymkent, Kazakhstan",
+      "affiliation_display": "South Kazakhstan Pedagogical University Named After O. Zhanibekov, Kazakhstan"
+    },
+    {
+      "name": "Bibigul Shagrayeva",
+      "given": "Bibigul",
+      "family": "Shagrayeva",
+      "orcid": null,
+      "affiliation_crossref": "South Kazakhstan Pedagogical University Named After O. Zhanibekov",
+      "affiliation_first": "Chemistry Department, South Kazakhstan Pedagogical University Named After O. Zhanibekov, Shymkent, Kazakhstan",
+      "affiliation_display": "South Kazakhstan Pedagogical University Named After O. Zhanibekov, Kazakhstan"
+    },
+    {
+      "name": "Yerman Shertayev",
+      "given": "Yerman",
+      "family": "Shertayev",
+      "orcid": null,
+      "affiliation_crossref": "M. Auezov South Kazakhstan University",
+      "affiliation_first": "Department of Ecology and Life Safety, M. Auezov South Kazakhstan University, Shymkent, Kazakhstan",
+      "affiliation_display": "M. Auezov South Kazakhstan University, Kazakhstan"
+    },
+    {
+      "name": "Akkongyr Zhylysbayeva",
+      "given": "Akkongyr",
+      "family": "Zhylysbayeva",
+      "orcid": null,
+      "affiliation_crossref": "South Kazakhstan Pedagogical University Named After O. Zhanibekov",
+      "affiliation_first": "Chemistry Department, South Kazakhstan Pedagogical University Named After O. Zhanibekov, Shymkent, Kazakhstan",
+      "affiliation_display": "South Kazakhstan Pedagogical University Named After O. Zhanibekov, Kazakhstan"
+    },
+    {
+      "name": "Elmira Amirbekova",
+      "given": "Elmira",
+      "family": "Amirbekova",
+      "orcid": "https://orcid.org/0000-0003-3842-4418",
+      "affiliation_crossref": "South Kazakhstan Pedagogical University Named After O. Zhanibekov",
+      "affiliation_first": "Chemistry Department, South Kazakhstan Pedagogical University Named After O. Zhanibekov, Shymkent, Kazakhstan",
+      "affiliation_display": "South Kazakhstan Pedagogical University Named After O. Zhanibekov, Kazakhstan"
+    }
+  ],
+  "abstract": {
+    "text": "Inadequate access to laboratory resources in remote secondary schools hinders efficient chemistry learning, highlighting the prospects of virtual and augmented reality (VR/AR) technologies to enhance project-oriented learning. This study investigates the effectiveness of integrating virtual and augmented reality (VR/AR) technologies into project-based chemistry learning in rural secondary schools with limited laboratory resources. A quasi-experimental design with supplementary survey data was employed, comprising 64 upper-secondary students (32 in the control group and 32 in the experimental group) who participated in the intervention. The experimental group engaged in VR/AR-supported environmental chemistry projects, whereas the control group received conventional instruction. Academic achievement, learning motivation, and perceived understanding were evaluated utilizing achievement tests and Likert-type scales. At the same time, supplementary descriptive survey items were used to contextualize students’ experiences of chemistry instruction and VR/AR-supported learning. The results indicated that students in the experimental group demonstrated substantially greater improvement in achievement (mean gain = 19) than the control group (mean gain = 3), with a large standardized post-test difference between groups (Cohen’s d = 0.89). Also, students in the experimental group exhibited increases in motivation and perceived understanding after the VR/AR-supported intervention. A strong positive relationship was observed between learning motivation and perceived understanding (r = 0.68, p < .001). The findings suggest that VR/AR-supported project-based learning may be a promising pedagogical approach for enhancing chemistry education in resource-constrained rural contexts. This study contributes to the literature by providing empirical evidence for the use of immersive technologies as a compensatory supplement to traditional laboratory instruction, particularly in settings with limited access to physical resources.",
+    "sections": {
+      "Background": "Inadequate access to laboratory resources in remote secondary schools hinders efficient chemistry learning, highlighting the prospects of virtual and augmented reality (VR/AR) technologies to enhance project-oriented learning.",
+      "Purpose": "This study investigates the effectiveness of integrating virtual and augmented reality (VR/AR) technologies into project-based chemistry learning in rural secondary schools with limited laboratory resources.",
+      "Sample": "A quasi-experimental design with supplementary survey data was employed, comprising 64 upper-secondary students (32 in the control group and 32 in the experimental group) who participated in the intervention.",
+      "Design and methods": "The experimental group engaged in VR/AR-supported environmental chemistry projects, whereas the control group received conventional instruction. Academic achievement, learning motivation, and perceived understanding were evaluated utilizing achievement tests and Likert-type scales. At the same time, supplementary descriptive survey items were used to contextualize students’ experiences of chemistry instruction and VR/AR-supported learning.",
+      "Results": "The results indicated that students in the experimental group demonstrated substantially greater improvement in achievement (mean gain = 19) than the control group (mean gain = 3), with a large standardized post-test difference between groups (Cohen’s d = 0.89). Also, students in the experimental group exhibited increases in motivation and perceived understanding after the VR/AR-supported intervention. A strong positive relationship was observed between learning motivation and perceived understanding (r = 0.68, p < .001).",
+      "Conclusion": "The findings suggest that VR/AR-supported project-based learning may be a promising pedagogical approach for enhancing chemistry education in resource-constrained rural contexts. This study contributes to the literature by providing empirical evidence for the use of immersive technologies as a compensatory supplement to traditional laboratory instruction, particularly in settings with limited access to physical resources."
+    },
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293 (publisher page, read in browser 2026-10-26)",
+    "note": "Section text matches the published abstract on the publisher page."
+  },
+  "publisher_keywords": [
+    "Virtual reality",
+    "augmented reality",
+    "chemistry education",
+    "project-based learning",
+    "rural education"
+  ],
+  "openalex_keywords": [
+    "virtual reality",
+    "augmented reality",
+    "project-based learning",
+    "chemistry education",
+    "rural schools",
+    "secondary education",
+    "environmental chemistry",
+    "student motivation",
+    "academic performance",
+    "immersive technologies",
+    "Kazakhstan"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2752293",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2752293",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "published abstract, full first affiliations, keywords",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293",
+      "retrieved": "2026-10-26",
+      "method": "read in a browser; the page blocks scripted requests"
+    }
+  ],
+  "missing": []
+}

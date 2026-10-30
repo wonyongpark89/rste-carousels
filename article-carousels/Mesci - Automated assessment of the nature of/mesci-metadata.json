@@ -1,0 +1,91 @@
+{
+  "doi": "10.1080/02635143.2026.2731035",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2731035",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2731035",
+  "journal": "Research in Science & Technological Education",
+  "title": "Automated assessment of the nature of scientific inquiry (NOSI) using machine learning and transformer-based language models",
+  "type": "journal-article",
+  "published_online": "2026-09-09",
+  "authors": [
+    {
+      "name": "Günkut Mesci",
+      "given": "Günkut",
+      "family": "Mesci",
+      "orcid": "https://orcid.org/0000-0003-0319-5993",
+      "affiliation_crossref": "Giresun University",
+      "affiliation_first": "Department of Mathematics and Science Education, Giresun University, Giresun, Turkiye",
+      "affiliation_display": "Giresun University, Turkiye"
+    },
+    {
+      "name": "Xiaoming Zhai",
+      "given": "Xiaoming",
+      "family": "Zhai",
+      "orcid": "https://orcid.org/0000-0003-4519-1931",
+      "affiliation_crossref": "University of Georgia",
+      "affiliation_first": "Department of Mathematics and Science Education, University of Georgia, Athens, USA",
+      "affiliation_display": "University of Georgia, USA"
+    },
+    {
+      "name": "Daniel K. Capps",
+      "given": "Daniel K.",
+      "family": "Capps",
+      "orcid": "https://orcid.org/0000-0002-2017-9218",
+      "affiliation_crossref": "University of Georgia",
+      "affiliation_first": "Department of Mathematics and Science Education, University of Georgia, Athens, USA",
+      "affiliation_display": "University of Georgia, USA"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Effective assessment of the nature of scientific inquiry is foundational to scientific literacy but is constrained by the resource-intensive, manual scoring of open-ended instruments such as the Views About Scientific Inquiry. Purpose: We addressed this challenge by developing and validating a comparative machine learning framework to automate and standardise the evaluation of Views About Scientific Inquiry responses responses from 503 Turkish pre-service teachers. Design/Methodology: We employed a feature-based Random Forest regression model and a deep contextual transformer-based BERTurk classification model using 5-fold cross-validation. Results: The Random Forest model established a reliable and stable methodological baseline, demonstrating strong predictive alignment with expert scores and minimal variability across repeated validation runs. Conversely, the BERTurk model, despite showing high initial potential, experienced a severe, non-reproducible collapse in performance during systematic stability tests. Conclusions: This outcome highlighted significant operational fragility under conditions constrained by limited data and a morphologically complex language. This comparative analysis reveals a critical methodological tension in educational artificial intelligence: model stability and interpretability must take precedence over peak performance for responsible application. The Random Forest framework offers a transparent, scalable solution for the automated, highly consistent assessment of the nature of scientific inquiry and serves as a diagnostic tool for identifying specific linguistic and conceptual difficulties in scientific reasoning.",
+    "sections": {
+      "Background": "Effective assessment of the nature of scientific inquiry is foundational to scientific literacy but is constrained by the resource-intensive, manual scoring of open-ended instruments such as the Views About Scientific Inquiry.",
+      "Purpose": "We addressed this challenge by developing and validating a comparative machine learning framework to automate and standardise the evaluation of Views About Scientific Inquiry responses responses from 503 Turkish pre-service teachers.",
+      "Design/Methodology": "We employed a feature-based Random Forest regression model and a deep contextual transformer-based BERTurk classification model using 5-fold cross-validation.",
+      "Results": "The Random Forest model established a reliable and stable methodological baseline, demonstrating strong predictive alignment with expert scores and minimal variability across repeated validation runs. Conversely, the BERTurk model, despite showing high initial potential, experienced a severe, non-reproducible collapse in performance during systematic stability tests.",
+      "Conclusions": "This outcome highlighted significant operational fragility under conditions constrained by limited data and a morphologically complex language. This comparative analysis reveals a critical methodological tension in educational artificial intelligence: model stability and interpretability must take precedence over peak performance for responsible application. The Random Forest framework offers a transparent, scalable solution for the automated, highly consistent assessment of the nature of scientific inquiry and serves as a diagnostic tool for identifying specific linguistic and conceptual difficulties in scientific reasoning."
+    },
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2731035 (publisher page, read in browser 2026-10-16)",
+    "note": "The published Purpose section repeats the word 'responses' ('responses responses'); kept verbatim here, not quoted on the carousel."
+  },
+  "publisher_keywords": [
+    "Nature of scientific inquiry (NOSI)",
+    "Views About Scientific Inquiry (VASI)",
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "BERTurk"
+  ],
+  "openalex_keywords": [
+    "nature of scientific inquiry",
+    "automated assessment",
+    "scientific literacy",
+    "pre-service teachers",
+    "BERTurk",
+    "random forest regression",
+    "model stability",
+    "Turkish language",
+    "artificial intelligence in education",
+    "scientific reasoning"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2731035",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2731035",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "published abstract, full first affiliations (a: Mesci; b: Zhai, Capps), keywords, article type, online date",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2731035",
+      "retrieved": "2026-10-16",
+      "method": "read in a browser; the page blocks scripted requests"
+    }
+  ],
+  "missing": [],
+  "article_type": "Research Article",
+  "house_style": "Affiliations on slides: 'Organisation, Country' (no department, subunit or city), set by the Editor 2026-10-16. Published forms kept in affiliation_first.",
+  "title_display": "Automated assessment of the nature of scientific inquiry (NOSI) using machine learning and transformer-based language models"
+}

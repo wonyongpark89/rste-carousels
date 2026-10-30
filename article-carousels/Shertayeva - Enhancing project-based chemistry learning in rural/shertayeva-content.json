@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2752293",
+  "pages": {
+    "investigate": [
+      "Inadequate ==access to laboratory resources== in remote secondary schools hinders efficient chemistry learning.",
+      "The study investigates the effectiveness of integrating ==virtual and augmented reality (VR/AR)== into project-based chemistry learning.",
+      "In a quasi-experiment, 32 upper-secondary students engaged in ==VR/AR-supported environmental chemistry projects==, while 32 received conventional instruction."
+    ],
+    "find": [
+      "The experimental group showed ==substantially greater achievement gains== than the control group (mean gains of 19 versus 3).",
+      "Experimental students also showed ==increases in motivation and perceived understanding==, two measures that were strongly positively related.",
+      "The authors suggest VR/AR-supported projects may be ==a promising approach== for chemistry education in resource-constrained rural contexts."
+    ]
+  },
+  "caption": {
+    "emoji": "🧪",
+    "question": "Can virtual and augmented reality help rural students learn chemistry with limited laboratory resources?",
+    "intro": "Nailya Shertayeva, Bibigul Shagrayeva, Yerman Shertayev, Akkongyr Zhylysbayeva and Elmira Amirbekova test **VR/AR-supported project-based chemistry learning** with 64 upper-secondary students in rural Kazakhstan.",
+    "hashtags": ["ScienceEducation", "ChemistryEducation", "VirtualReality", "AugmentedReality", "ProjectBasedLearning", "RuralEducation", "ImmersiveLearning", "EdTech", "Kazakhstan", "EducationResearch"]
+  },
+  "source_notes": {
+    "investigate": "Background; Purpose; Sample and Design and methods (64 students, 32 per group; VR/AR-supported environmental chemistry projects vs conventional instruction).",
+    "find": "Results: mean gain 19 vs 3 (Cohen's d = 0.89 not shown); increases in motivation and perceived understanding; strong positive relationship between them (r = 0.68). Conclusion: 'may be a promising pedagogical approach' in resource-constrained rural contexts.",
+    "caption": "Question from Background/Purpose; intro from Purpose, Sample and the title (Kazakhstan). No claims beyond the abstract and title."
+  }
+}

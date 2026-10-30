@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2738944",
+  "pages": {
+    "investigate": [
+      "Middle school students often find it difficult to write arguments that are both ==structurally organised and scientifically credible==.",
+      "The study analysed ==supporting and opposing written arguments== from 109 eighth-grade students.",
+      "The arguments addressed three curriculum-aligned cases: nutrient cycling and plant vitality, thermal conductivity, and lightning formation."
+    ],
+    "find": [
+      "Students relied mainly on ==referential evidence== and explicit scientific theory explanations.",
+      "==Supporting arguments were generally stronger== than opposing ones, which more often remained incomplete, weakly justified or low in credibility.",
+      "The study suggests students may need ==greater instructional attention== to justify claims, evaluate evidence and respond to alternative positions."
+    ]
+  },
+  "caption": {
+    "emoji": "💬",
+    "question": "How well do students argue for, and against, a scientific claim?",
+    "intro": "Filiz Bezci examines the **structural quality and scientific credibility** of supporting and opposing written arguments from 109 eighth-grade students across three curriculum-aligned science cases.",
+    "hashtags": ["ScienceEducation", "Argumentation", "ScientificArgumentation", "ScientificReasoning", "MiddleSchool", "ScienceTeaching", "ScientificLiteracy", "ScienceWriting", "EducationalResearch"]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose and Sample sections of the published abstract.",
+    "find": "Results and Conclusion sections. 'Generally stronger' renders 'generally demonstrated stronger structural quality and higher scientific credibility'; the instructional point is attributed to the study ('suggests ... may').",
+    "caption": "Question and summary drawn from the abstract; no claims beyond it."
+  }
+}

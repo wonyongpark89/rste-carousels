@@ -1,0 +1,3 @@
+🔍 𝐂𝐚𝐧 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐲 𝐬𝐜𝐨𝐫𝐞 𝐨𝐩𝐞𝐧-𝐞𝐧𝐝𝐞𝐝 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐞𝐬 𝐚𝐛𝐨𝐮𝐭 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐟𝐢𝐜 𝐢𝐧𝐪𝐮𝐢𝐫𝐲? Günkut Mesci, Xiaoming Zhai and Daniel K. Capps compare a 𝗥𝗮𝗻𝗱𝗼𝗺 𝗙𝗼𝗿𝗲𝘀𝘁 𝗺𝗼𝗱𝗲𝗹 and the transformer-based 𝗕𝗘𝗥𝗧𝘂𝗿𝗸 𝗺𝗼𝗱𝗲𝗹 for scoring Views About Scientific Inquiry responses from 503 Turkish pre-service teachers. https://doi.org/10.1080/02635143.2026.2731035
+
+#ScienceEducation #NatureOfScientificInquiry #ScientificInquiry #MachineLearning #AIinEducation #EducationalAssessment #AutomatedScoring #TeacherEducation #PreserviceTeachers #NLP

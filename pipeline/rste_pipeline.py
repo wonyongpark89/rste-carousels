@@ -123,7 +123,7 @@ def event(rec, what, **extra):
 
 def rel(p):
     try:
-        return str(pathlib.Path(p).resolve().relative_to(PROJECT))
+        return pathlib.Path(p).resolve().relative_to(PROJECT).as_posix()
     except ValueError:
         return str(p)
 

@@ -1,0 +1,65 @@
+{
+  "doi": "10.1080/02635143.2026.2738944",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2738944",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2738944",
+  "journal": "Research in Science & Technological Education",
+  "title": "Structural quality and scientific credibility in students’ arguments: a comparative analysis of supporting and opposing perspectives",
+  "type": "journal-article",
+  "published_online": "2026-09-28",
+  "authors": [
+    {
+      "name": "Filiz Bezci",
+      "given": "Filiz",
+      "family": "Bezci",
+      "orcid": "https://orcid.org/0000-0002-4081-2041",
+      "affiliation_crossref": "Çankırı Karatekin University",
+      "affiliation_first": "Department of Educational Sciences, Faculty of Humanities and Social Sciences, Çankırı Karatekin University, Çankırı, Türkiye",
+      "affiliation_display": "Çankırı Karatekin University, Türkiye"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Argumentation is a central practice in science education because it enables students to construct, justify, and evaluate scientific claims. Despite its importance, middle school students often experience difficulty producing arguments that are both structurally organized and scientifically credible. Purpose: This study examined the structural quality and scientific credibility of eighth-grade students’ written arguments and compared supporting and opposing arguments across three curriculum-aligned science cases focusing on nutrient cycling and plant vitality, thermal conductivity, and lightning formation. Sample: Supporting and opposing written arguments produced as individual homework by 109 eighth-grade students were examined. Design and Methods: The study employed a non-experimental, cross-sectional, within-participant comparative design based on quantitative content analysis. Paired arguments were analyzed using descriptive and inferential statistical procedures and coded using Puvirajah’s Structure of Argumentation and Scientific Credibility framework. Structural quality was examined through evidence and explanation types, whereas scientific credibility was evaluated in terms of relevancy, sufficiency, and plausibility. Results: Students relied primarily on referential evidence and explicit scientific theory explanations. Supporting arguments generally demonstrated stronger structural quality and higher scientific credibility than opposing arguments, whereas opposing arguments were more likely to remain incomplete, weakly justified, or low in credibility. Conclusion: The findings are interpreted in relation to the systems-level cognitive demands of multi-component argumentation tasks. By examining supporting and opposing written arguments through the dual lenses of structural quality and scientific credibility, the study suggests that greater instructional attention may be needed to help students justify claims, evaluate evidence, and respond to alternative positions.",
+    "sections": {
+      "Background": "Argumentation is a central practice in science education because it enables students to construct, justify, and evaluate scientific claims. Despite its importance, middle school students often experience difficulty producing arguments that are both structurally organized and scientifically credible.",
+      "Purpose": "This study examined the structural quality and scientific credibility of eighth-grade students’ written arguments and compared supporting and opposing arguments across three curriculum-aligned science cases focusing on nutrient cycling and plant vitality, thermal conductivity, and lightning formation.",
+      "Sample": "Supporting and opposing written arguments produced as individual homework by 109 eighth-grade students were examined.",
+      "Design and Methods": "The study employed a non-experimental, cross-sectional, within-participant comparative design based on quantitative content analysis. Paired arguments were analyzed using descriptive and inferential statistical procedures and coded using Puvirajah’s Structure of Argumentation and Scientific Credibility framework. Structural quality was examined through evidence and explanation types, whereas scientific credibility was evaluated in terms of relevancy, sufficiency, and plausibility.",
+      "Results": "Students relied primarily on referential evidence and explicit scientific theory explanations. Supporting arguments generally demonstrated stronger structural quality and higher scientific credibility than opposing arguments, whereas opposing arguments were more likely to remain incomplete, weakly justified, or low in credibility.",
+      "Conclusion": "The findings are interpreted in relation to the systems-level cognitive demands of multi-component argumentation tasks. By examining supporting and opposing written arguments through the dual lenses of structural quality and scientific credibility, the study suggests that greater instructional attention may be needed to help students justify claims, evaluate evidence, and respond to alternative positions."
+    },
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2738944 (publisher page, read in browser 2026-10-16)"
+  },
+  "publisher_keywords": [
+    "Argument",
+    "structural quality",
+    "scientific credibility",
+    "supporting and opposing arguments",
+    "middle school students"
+  ],
+  "openalex_keywords": [
+    "argumentation",
+    "scientific credibility",
+    "argument structure",
+    "student arguments",
+    "science education",
+    "argument quality"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2738944",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2738944",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "first affiliations, abstract, keywords",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2738944",
+      "retrieved": "2026-10-16"
+    }
+  ],
+  "missing": []
+}

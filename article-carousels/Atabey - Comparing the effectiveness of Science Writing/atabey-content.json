@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2742294",
+  "pages": {
+    "investigate": [
+      "Traditional, recipe-like laboratory practices have been criticised for offering ==limited cognitive engagement==.",
+      "The study compared the Science Writing Heuristic (SWH) with the ==Model-Based Science Writing Heuristic (M-SWH)==, which integrates modelling with argumentation and writing.",
+      "A quasi-experimental pre-test–post-test design measured the ==problem-solving perceptions== of 53 pre-service elementary teachers."
+    ],
+    "find": [
+      "Both approaches had ==significant effects with large effect sizes== on the teachers’ problem-solving perceptions.",
+      "The M-SWH approach improved problem-solving perceptions ==significantly more== than the SWH-based approach.",
+      "The study may support integrating lab activities that combine ==argumentation, modelling and writing== into undergraduate programmes."
+    ]
+  },
+  "caption": {
+    "emoji": "🧪",
+    "question": "Does adding modelling to laboratory writing activities change how future teachers see their own problem-solving?",
+    "intro": "Nejla Atabey compares the **Science Writing Heuristic** with its **model-based version** in laboratory activities for pre-service elementary teachers, using a quasi-experimental design.",
+    "hashtags": ["ScienceEducation", "TeacherEducation", "PreserviceTeachers", "ScienceWritingHeuristic", "Argumentation", "Modelling", "LaboratoryLearning", "ProblemSolving", "ElementaryEducation", "STEMEducation"]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose, Sample and Design and Methods sections of the published abstract. 53 = 25 control + 28 experimental teachers analysed after data screening.",
+    "find": "Results and Conclusion sections. 'May support integrating' renders the abstract's 'may contribute to the integration'.",
+    "caption": "Question and summary drawn from the abstract; no claims beyond it."
+  }
+}

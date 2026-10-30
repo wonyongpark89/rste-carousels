@@ -1,0 +1,65 @@
+{
+  "doi": "10.1080/02635143.2026.2742294",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2742294",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2742294",
+  "journal": "Research in Science & Technological Education",
+  "title": "Comparing the effectiveness of Science Writing Heuristic and Model-based Science Writing Heuristic laboratory activities on problem-solving perceptions of pre-service elementary teachers",
+  "type": "journal-article",
+  "published_online": "2026-10-02",
+  "authors": [
+    {
+      "name": "Nejla Atabey",
+      "given": "Nejla",
+      "family": "Atabey",
+      "orcid": "https://orcid.org/0000-0001-8710-3595",
+      "affiliation_crossref": "Muş Alparslan University",
+      "affiliation_first": "Faculty of Education, Department of Primary Education, Muş Alparslan University, Muş, Türkiye",
+      "affiliation_display": "Muş Alparslan University, Türkiye"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Laboratory activities are essential in science education, yet traditional, recipe-like laboratory practices have been criticized for providing limited cognitive engagement. In response, contemporary approaches such as the Science Writing Heuristic (SWH), which emphasizes argumentation, collaboration, and writing, and the Model-Based Science Writing Heuristic (M-SWH), which integrates modelling with argumentation and writing, have gained prominence. Purpose: This study aims to compare the SWH and M-SWH approaches regarding pre-service elementary teachers’ (PET’) problem-solving perceptions. Sample: Initially, 57 PET participated in the study (26 in the control group and 31 in the experimental group). After data screening, the analyses were conducted with 25 PET in the control group and 28 in the experimental group. Design and Methods: A pre-test–post-test quasi-experimental design with a control group was employed. The control group received instruction based on the SWH approach, whereas the experimental group received instruction based on the M-SWH approach. Data were collected using a problem-solving inventory; a dependent samples t-test and one-way ANCOVA were used for analysis. In addition, effect sizes were calculated. Results: The analyses revealed that the SWH and the M-SWH had significant effects and large effect sizes on PET’ problem-solving perceptions. Furthermore, the M-SWH approach improved problem-solving perceptions significantly more compared to the SWH-based approach. Conclusion: This study may contribute to the integration of lab activities that combine argumentation, modelling, and writing processes into undergraduate programs in order to develop teachers’ problem-solving perceptions.",
+    "sections": {
+      "Background": "Laboratory activities are essential in science education, yet traditional, recipe-like laboratory practices have been criticized for providing limited cognitive engagement. In response, contemporary approaches such as the Science Writing Heuristic (SWH), which emphasizes argumentation, collaboration, and writing, and the Model-Based Science Writing Heuristic (M-SWH), which integrates modelling with argumentation and writing, have gained prominence.",
+      "Purpose": "This study aims to compare the SWH and M-SWH approaches regarding pre-service elementary teachers’ (PET’) problem-solving perceptions.",
+      "Sample": "Initially, 57 PET participated in the study (26 in the control group and 31 in the experimental group). After data screening, the analyses were conducted with 25 PET in the control group and 28 in the experimental group.",
+      "Design and Methods": "A pre-test–post-test quasi-experimental design with a control group was employed. The control group received instruction based on the SWH approach, whereas the experimental group received instruction based on the M-SWH approach. Data were collected using a problem-solving inventory; a dependent samples t-test and one-way ANCOVA were used for analysis. In addition, effect sizes were calculated.",
+      "Results": "The analyses revealed that the SWH and the M-SWH had significant effects and large effect sizes on PET’ problem-solving perceptions. Furthermore, the M-SWH approach improved problem-solving perceptions significantly more compared to the SWH-based approach.",
+      "Conclusion": "This study may contribute to the integration of lab activities that combine argumentation, modelling, and writing processes into undergraduate programs in order to develop teachers’ problem-solving perceptions."
+    },
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2742294 (publisher page, read in browser 2026-10-16)"
+  },
+  "publisher_keywords": [
+    "Science Writing Heuristic",
+    "Model-based science Writing Heuristic",
+    "Pre-service elementary teachers",
+    "problem-solving perception"
+  ],
+  "openalex_keywords": [
+    "Science Writing Heuristic",
+    "laboratory exercises",
+    "pre-service primary teachers",
+    "argumentation",
+    "modeling",
+    "writing in science education",
+    "teacher professional development"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2742294",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2742294",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "first affiliations, abstract, keywords",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2742294",
+      "retrieved": "2026-10-16"
+    }
+  ],
+  "missing": []
+}

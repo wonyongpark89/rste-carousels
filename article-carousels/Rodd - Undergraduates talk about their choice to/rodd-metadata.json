@@ -1,0 +1,89 @@
+{
+  "doi": "10.1080/02635143.2013.811072",
+  "doi_url": "https://doi.org/10.1080/02635143.2013.811072",
+  "publisher_url": "http://www.tandfonline.com/doi/abs/10.1080/02635143.2013.811072",
+  "journal": "Research in Science & Technological Education",
+  "title": "Undergraduates talk about their choice to study physics at university: what was key to their participation?",
+  "type": "journal-article",
+  "published_online": "2013-07",
+  "published_print": "2013-07",
+  "volume": "31",
+  "issue": "2",
+  "pages": "153-167",
+  "authors": [
+    {
+      "name": "Melissa Rodd",
+      "given": "Melissa",
+      "family": "Rodd",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "Institute of Education, University of London, London, United Kingdom",
+      "affiliation_display": "Institute of Education, University of London, United Kingdom",
+      "affiliation_source": "Printed on the article's first page (PDF supplied by the Editor)."
+    },
+    {
+      "name": "Michael Reiss",
+      "given": "Michael",
+      "family": "Reiss",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "Institute of Education, University of London, London, United Kingdom",
+      "affiliation_display": "Institute of Education, University of London, United Kingdom",
+      "affiliation_source": "Printed on the article's first page (PDF supplied by the Editor)."
+    },
+    {
+      "name": "Tamjid Mujtaba",
+      "given": "Tamjid",
+      "family": "Mujtaba",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "Institute of Education, University of London, London, United Kingdom",
+      "affiliation_display": "Institute of Education, University of London, United Kingdom",
+      "affiliation_source": "Printed on the article's first page (PDF supplied by the Editor)."
+    }
+  ],
+  "abstract": {
+    "text": "Background: The research on which this article is based was commissioned because of concerns about perceived shortages of willing and able young people choosing to study physics at university. Purpose: This article reports on first year physics undergraduates’ narratives of why they are studying physics and uses these narratives to identify reasons for their choice. Design and method: Narrative-style interviewing with a purposive sample of first year undergraduates yielded data that revealed complexities around decision making, including choice of university course. Analysis of the texts was informed by psychoanalytical notions rooted in the work of Sigmund Freud. These psychoanalytical notions were used both in generating the interview data – the undergraduate volunteer interviewees were conceptualised as ‘defended subjects’ – and in analysing these interviews in order to conjecture how unconscious forces might figure in young people’s decision making. Results: After analysing the interviews with physics undergraduates, with respect to the question ‘why are they reading physics?’, the claim is that identification with a key adult is an important element in an individual’s participation. On the other hand, we discerned no evidence that experience of the sorts of innovation typically designed to increase physics uptake – for example ‘fun projects’ or competitions – had been key with respect to a desire to read physics. (Conclusion section not transcribed.)",
+    "sections": null,
+    "source": "Article PDF supplied by the Editor (from-the-archive/Undergraduates talk about their choice to study physics at university  what was key to their participation .pdf), p. 2"
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "physics education",
+    "undergraduate physics students",
+    "student motivation",
+    "decision-making",
+    "psychoanalytic theory",
+    "teacher influence",
+    "student narratives"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2013.811072",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2013.811072",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "affiliation (as printed), abstract, full text",
+      "url": "from-the-archive/Undergraduates talk about their choice to study physics at university  what was key to their participation .pdf",
+      "retrieved": "2026-10-26",
+      "method": "PDF supplied by the Editor"
+    }
+  ],
+  "missing": [],
+  "verified_facts": {
+    "sample": "Seven Strand 3 first-year physics undergraduates, a subset of 51 interviewed at four UK universities in the UPMAP project, 2008-11 (p. 3).",
+    "method": "Narrative interviews; psychoanalytically informed analysis rooted in Freud ('defended subjects') (abstract, pp. 5-7).",
+    "significant_adult": "All seven interviews indicated the importance of a significant adult representing physics (p. 9); key people were teachers, fathers, a mother, a sister and a grandfather (p. 12).",
+    "grandfather": "Opening quotation: a grandpa telling the student about the stars on walks in Spain (p. 2).",
+    "teacher": "An encouraging GCSE teacher who 'did encourage me to take it further' (pp. 10-11).",
+    "outreach": "No evidence that fun projects or competitions had been key to a desire to read physics (abstract).",
+    "source": "Article PDF supplied by the Editor: from-the-archive/Undergraduates talk about their choice to study physics at university  what was key to their participation .pdf"
+  },
+  "series": "archive"
+}

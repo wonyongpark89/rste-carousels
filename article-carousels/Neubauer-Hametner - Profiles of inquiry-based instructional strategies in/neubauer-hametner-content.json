@@ -1,0 +1,42 @@
+{
+  "doi": "10.1080/02635143.2026.2657036",
+  "pages": {
+    "investigate": [
+      "The study is the ==first empirical examination== of inquiry-based instruction in Austrian primary science classrooms.",
+      "It asks how far inquiry-based strategies are enacted, ==which instructional profiles teachers show==, and how these relate to professionalisation and gender.",
+      "Latent Class Analysis was applied to ==self-reports from 339 teachers== in the 2019 TIMSS teacher survey."
+    ],
+    "find": [
+      "The analysis revealed ==four distinct instructional profiles==.",
+      "About two-thirds of teachers reported combining inquiry-based strategies, yet ==only one profile reflected a comprehensive inquiry approach==, with students engaged throughout the inquiry cycle.",
+      "Profile membership was ==significantly associated with gender and professional development==; the authors call for stronger reflective competencies in teacher education."
+    ]
+  },
+  "caption": {
+    "emoji": "🔬",
+    "question": "How is inquiry-based teaching actually practised in primary science classrooms?",
+    "intro": "Doris Neubauer-Hametner, Heike Wendt and Daniel Kasper use 2019 TIMSS survey data from 339 Austrian teachers to identify **profiles of inquiry-based instructional strategies** in primary science.",
+    "hashtags": [
+      "ScienceEducation",
+      "PrimaryScience",
+      "InquiryBasedLearning",
+      "TIMSS",
+      "TeacherEducation",
+      "ProfessionalDevelopment",
+      "LatentClassAnalysis",
+      "PrimaryEducation",
+      "Austria",
+      "EducationResearch"
+    ]
+  },
+  "source_notes": {
+    "investigate": "Abstract sentences 2-5: first empirical examination; aims (i)-(iii); secondary data from the 2019 TIMSS teacher survey in Austria (n teacher = 339); Latent Class Analysis of teachers' self-reports.",
+    "find": "Abstract sentences 6-10: four distinct profiles; about two-thirds combine strategies, only one profile comprehensive across the inquiry cycle; significant associations with gender and professional development (multinomial logistic regression); need to strengthen deep instructional structures and reflective competencies in initial teacher education and ongoing professional development. 'Call for' renders 'underscore the need'.",
+    "caption": "Question and summary drawn from the abstract; no claims beyond it."
+  },
+  "approval": {
+    "status": "approved by the Editor",
+    "date": "2026-10-16",
+    "scope": "final carousel: page 1 (NEW ARTICLE tag, house-style affiliations), pages 2-3 (star bullets, marigold highlights), caption wording (single-paragraph format set 2026-10-16)"
+  }
+}

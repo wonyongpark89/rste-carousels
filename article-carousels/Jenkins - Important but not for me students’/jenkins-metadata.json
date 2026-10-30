@@ -1,0 +1,80 @@
+{
+  "doi": "10.1080/02635140500068435",
+  "doi_url": "https://doi.org/10.1080/02635140500068435",
+  "publisher_url": "http://www.tandfonline.com/doi/full/10.1080/02635140500068435",
+  "journal": "Research in Science & Technological Education",
+  "title": "Important but not for me: students’ attitudes towards secondary school science in England",
+  "type": "journal-article",
+  "published_online": "2010-10-13",
+  "authors": [
+    {
+      "name": "Edgar W. Jenkins",
+      "given": "Edgar W.",
+      "family": "Jenkins",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "University of Leeds, UK",
+      "affiliation_display": "University of Leeds, UK",
+      "affiliation_source": "Confirmed by the Editor in chat, 2026-10-26. The publisher page lists no affiliations; Jenkins's correspondence address is education.leeds.ac.uk."
+    },
+    {
+      "name": "N. W. Nelson",
+      "given": "N. W.",
+      "family": "Nelson",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "University of Leeds, UK",
+      "affiliation_display": "University of Leeds, UK",
+      "affiliation_source": "Confirmed by the Editor in chat, 2026-10-26. The publisher page lists no affiliations; Jenkins's correspondence address is education.leeds.ac.uk."
+    }
+  ],
+  "abstract": {
+    "text": "This article presents some of the results of the questionnaire‐based Relevance of Science Education Project (ROSE) carried out in England in the latter half of 2003 as part of a wider international comparative study based at the University of Oslo. Data, drawn from 1277 students, most of whom were 14 or 15 years old, indicate their views about their school science education, their choice of careers and what they would most like to learn about in their science lessons. The findings are placed in the context of other accounts of the ‘student voice’ in science education and their implications for policy and science curriculum reform are discussed.",
+    "sections": null,
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635140500068435 (publisher page, read in browser 2026-10-26)"
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "student attitudes",
+    "secondary school science",
+    "relevance of science education",
+    "career choice",
+    "student voice",
+    "science curriculum reform",
+    "science education policy"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635140500068435",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635140500068435",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract, full text, Table 1 percentages, volume/issue/pages",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635140500068435",
+      "retrieved": "2026-10-26",
+      "method": "read in a browser; open access"
+    }
+  ],
+  "missing": [],
+  "published_print": "2005-05",
+  "volume": "23",
+  "issue": "1",
+  "pages": "41-57",
+  "published_online_note": "2010-10-13 is the date the back issue was put online, not the publication date.",
+  "verified_facts": {
+    "sample": "1277 completed questionnaires; 13- and 17-year-olds excluded, leaving 1266 for analysis (full text, Methods).",
+    "everybody_should_learn_science": "68% = low agree 28 + agree 40 (Table 1, statement 6).",
+    "school_science_interesting": "61% = low agree 38 + agree 23 (Table 1, statement 2).",
+    "would_like_to_become_scientist": "21% = low agree 13 + agree 8 (Table 1, statement 14).",
+    "gender": "Statistically significant gender differences in responses and topic interests (full text, Results and Table 2).",
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635140500068435 (open-access full text, Table 1 opened in browser 2026-10-26)"
+  },
+  "series": "archive",
+  "title_display": "Important but not for me: students’ attitudes towards secondary school science in England"
+}

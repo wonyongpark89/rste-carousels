@@ -1,0 +1,76 @@
+{
+  "doi": "10.1080/02635140701847538",
+  "doi_url": "https://doi.org/10.1080/02635140701847538",
+  "publisher_url": "http://www.tandfonline.com/doi/full/10.1080/02635140701847538",
+  "journal": "Research in Science & Technological Education",
+  "title": "Girls’ biology, boys’ physics: evidence from free‐choice science learning settings",
+  "type": "journal-article",
+  "published_online": "2008-03-11",
+  "published_print": "2008-04",
+  "volume": "26",
+  "issue": "1",
+  "pages": "75-92",
+  "authors": [
+    {
+      "name": "Ayelet Baram‐Tsabari",
+      "given": "Ayelet",
+      "family": "Baram‐Tsabari",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "Weizmann Institute of Science, Rehovot, Israel",
+      "affiliation_display": "Weizmann Institute of Science, Israel"
+    },
+    {
+      "name": "Anat Yarden",
+      "given": "Anat",
+      "family": "Yarden",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "Weizmann Institute of Science, Rehovot, Israel",
+      "affiliation_display": "Weizmann Institute of Science, Israel"
+    }
+  ],
+  "abstract": {
+    "text": "Many of the explanations for girls’ disinterest in physics focus on the role of the educational system in creating this situation. Here, we use evidence from free‐choice science learning settings to study if this lack of interest is also expressed in non‐school settings. Three sets of self‐generated questions raised by children, adolescents and adults in the fields of biology and physics were used. The outcomes of this analysis show that the polar pattern previously described in school science settings, in which physics proves significantly less interesting to girls than to boys, while biology is of greater interest to girls than to boys, also appears in free‐choice science learning settings. While boys develop an interest in physics with age, girls do not develop such an interest to the same degree. Thus, the initial gap in interest is probably not based on school‐related causes, but its widening in later years probably is. A difference was also found between the genders in the type of information requested and in the motivation for raising the questions. Using topics that appeal to girls’ interest as the context of science learning could prove beneficial in the process of mainstreaming science education. These topics can be identified using girls’ spontaneous questions.",
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635140701847538 (publisher page, 2026-10-26) and the article PDF supplied by the Editor"
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "interest in physics",
+    "informal science learning",
+    "self-generated questions"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635140701847538",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635140701847538",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "affiliations (as printed)",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635140701847538",
+      "retrieved": "2026-10-26",
+      "method": "read in a browser"
+    },
+    {
+      "what": "full text: sample, percentages, age trend",
+      "url": "from-the-archive/Girls  biology  boys  physics  evidence from free choice science learning settings.pdf",
+      "retrieved": "2026-10-26",
+      "method": "PDF supplied by the Editor"
+    }
+  ],
+  "missing": [],
+  "verified_facts": {
+    "sample": "1,169 pooled gender-identifiable questions: 955 biology (462 male, 493 female) + 214 physics (159 male, 55 female) (PDF p. 7); female n = 548, male n = 621 (Figure 1, p. 10).",
+    "sources": "Israeli children's questions to a website accompanying a TV series; an international 'Ask-A-Scientist' site; Israeli viewers of a popular-science TV series (pp. 6-7).",
+    "percentages": "Biology 53.8% of females' vs 38.3% of males' science questions; physics 6% vs 13.2% (p. 9).",
+    "age": "Gap widens with age, not because girls lose interest in physics but because they do not seem to develop it to the same degree as boys (p. 11).",
+    "source": "Article PDF supplied by the Editor: from-the-archive/Girls  biology  boys  physics  evidence from free choice science learning settings.pdf"
+  },
+  "series": "archive"
+}

@@ -1,0 +1,85 @@
+{
+  "doi": "10.1080/02635143.2026.2657036",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2657036",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2657036",
+  "journal": "Research in Science & Technological Education",
+  "title": "Profiles of inquiry-based instructional strategies in Austrian primary school science education",
+  "type": "journal-article",
+  "published_online": "2026-05-19",
+  "authors": [
+    {
+      "name": "Doris Neubauer-Hametner",
+      "given": "Doris",
+      "family": "Neubauer-Hametner",
+      "orcid": "https://orcid.org/0009-0003-8040-9980",
+      "affiliation_crossref": "Private University of Education",
+      "affiliation_first": "Institute Knowledge Transfer, Diocese of Linz, Private University of Education, Linz, Austria",
+      "affiliation_display": "Private University of Education, Austria"
+    },
+    {
+      "name": "Heike Wendt",
+      "given": "Heike",
+      "family": "Wendt",
+      "orcid": "https://orcid.org/0000-0001-5255-1806",
+      "affiliation_crossref": "Institute empirical research and teacher education, University of Graz",
+      "affiliation_first": "Institute empirical research and teacher education, University of Graz, Linz, Austria",
+      "affiliation_display": "University of Graz, Austria"
+    },
+    {
+      "name": "Daniel Kasper",
+      "given": "Daniel",
+      "family": "Kasper",
+      "orcid": "https://orcid.org/0000-0002-2804-1256",
+      "affiliation_crossref": "Erziehungswissenschaft, University of Hamburg",
+      "affiliation_first": "Erziehungswissenschaft, University of Hamburg, Germany",
+      "affiliation_display": "University of Hamburg, Germany"
+    }
+  ],
+  "abstract": {
+    "text": "Inquiry-based instruction is widely regarded as a core feature of high-quality science teaching. This study provides the first empirical examination of its implementation in Austrian primary science classrooms. It aims to (i) assess the extent to which inquiry-based instructional strategies are enacted, (ii) identify distinct instructional profiles among teachers, and (iii) explore associations between these profiles and teacher characteristics, including professionalisation and gender. This study draws on secondary data from the 2019 TIMSS teacher survey in Austria (nstudents = 4,966; nteacher = 339). Latent Class Analysis was employed to identify underlying patterns of instructional practice based on teachers’ self-reports. The analysis revealed four distinct instructional profiles that differ significantly in their didactic design and instructional objectives. While approximately two-thirds of teachers reported combining inquiry-based strategies in various ways, only one profile reflects a comprehensive inquiry-oriented approach in which students are actively engaged throughout the inquiry cycle. The remaining profiles are characterised by differences in instructional goals and pedagogical beliefs. Moreover, multinomial logistic regression analyses revealed statistically significant associations between profile membership and teacher characteristics, particularly gender and engagement in professional development. The results underscore the need to strengthen deep instructional structures and reflective competencies in both initial teacher education and ongoing professional development.",
+    "sections": null,
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2657036 (publisher page, read in browser 2026-10-16)",
+    "note": "Unstructured abstract. 'nstudents'/'nteacher' are subscripted n in the original."
+  },
+  "publisher_keywords": [
+    "TIMSS",
+    "primary school science education",
+    "inquiry-based instructional strategies",
+    "instructional profiles",
+    "latent class analysis"
+  ],
+  "openalex_keywords": [
+    "inquiry-based teaching",
+    "primary school science education",
+    "teacher professionalization",
+    "teacher gender",
+    "teacher professional development",
+    "pedagogical beliefs",
+    "inquiry cycle"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2657036",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2657036",
+      "retrieved": "2026-10-16"
+    },
+    {
+      "what": "published abstract, full first affiliations (a: Neubauer-Hametner; b: Wendt; c: Kasper), keywords, open access",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2657036",
+      "retrieved": "2026-10-16",
+      "method": "read in a browser; the page blocks scripted requests"
+    }
+  ],
+  "missing": [],
+  "open_access": true,
+  "flags": [
+    "Heike Wendt's affiliation is published as 'University of Graz, Linz, Austria' (Graz and Linz are different cities). Reproduced exactly as published; the Editor may wish to check it with the authors or production. Moot on the slides: house style shows no city."
+  ],
+  "house_style": "Affiliations on slides: 'Organisation, Country' (no department, subunit or city), set by the Editor 2026-10-16. Published forms kept in affiliation_first.",
+  "title_display": "Profiles of inquiry-based instructional strategies in Austrian primary school science education"
+}

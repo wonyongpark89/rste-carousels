@@ -1,0 +1,71 @@
+{
+  "doi": "10.1080/0263514990170104",
+  "doi_url": "https://doi.org/10.1080/0263514990170104",
+  "publisher_url": "http://www.tandfonline.com/doi/full/10.1080/0263514990170104",
+  "journal": "Research in Science & Technological Education",
+  "title": "Transcending Cultural Borders: implications for science teaching",
+  "type": "journal-article",
+  "published_online": "2006-08-19",
+  "published_print": "1999-05",
+  "volume": "17",
+  "issue": "1",
+  "pages": "45-66",
+  "authors": [
+    {
+      "name": "Olugbemiro J. Jegede",
+      "given": "Olugbemiro J.",
+      "family": "Jegede",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "The Open University of Hong Kong, Centre for Research in Distance & Adult Learning, Hong Kong",
+      "affiliation_display": "The Open University of Hong Kong, Hong Kong"
+    },
+    {
+      "name": "Glen S. Aikenhead",
+      "given": "Glen S.",
+      "family": "Aikenhead",
+      "orcid": null,
+      "affiliation_crossref": null,
+      "affiliation_first": "University of Saskatchewan, College of Education, Canada",
+      "affiliation_display": "University of Saskatchewan, Canada"
+    }
+  ],
+  "abstract": {
+    "text": "The current development towards ‘science for all’ in all parts of the globe necessitates that consideration be given to how pupils move between their everyday life‐world and the world of school science, how pupils deal with cognitive conflicts between those two worlds, and what this means for effective teaching of science. This paper reviews a new cognitive explanation‐‐collateral learning theory‐‐for how pupils cope with disparate worldviews mediated by transcending cultural borders between their everyday culture and the culture of science. The assistance that most pupils receive when they attempt to negotiate these cultural borders will influence their success at science. A new pedagogy is proposed in which teachers assume a role of culture broker in the classroom to achieve culturally sensitive curriculum and assessment.",
+    "sections": null,
+    "source": "https://www.tandfonline.com/doi/full/10.1080/0263514990170104 (publisher page, read in browser 2026-10-26)"
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "science for all",
+    "science in everyday life",
+    "school science",
+    "cultural boundaries",
+    "cognitive conflict",
+    "worldview",
+    "culturally sensitive curriculum",
+    "culturally sensitive assessment"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/0263514990170104",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/0263514990170104",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract, affiliations (as printed), volume/issue/pages",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/0263514990170104",
+      "retrieved": "2026-10-26",
+      "method": "read in a browser; open access"
+    }
+  ],
+  "missing": [],
+  "published_online_note": "2006-08-19 is the date the back issue was put online; the article appeared in May 1999 (vol. 17, no. 1).",
+  "series": "archive",
+  "title_display": "Transcending cultural borders: implications for science teaching"
+}

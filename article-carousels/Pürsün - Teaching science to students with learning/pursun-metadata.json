@@ -1,0 +1,81 @@
+{
+  "doi": "10.1080/02635143.2026.2743248",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2743248",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248",
+  "journal": "Research in Science & Technological Education",
+  "title": "Teaching science to students with learning disabilities: teacher and student views on the food unit",
+  "type": "journal-article",
+  "published_online": "2026-10-20",
+  "authors": [
+    {
+      "name": "Tuğba Pürsün",
+      "given": "Tuğba",
+      "family": "Pürsün",
+      "orcid": "https://orcid.org/0000-0002-5436-1464",
+      "affiliation_crossref": "Tokat Gaziosmanpaşa University",
+      "affiliation_first": "Special Education Department, Education Faculty, Tokat Gaziosmanpaşa University, Tokat, Turkey",
+      "affiliation_display": "Tokat Gaziosmanpaşa University, Turkey"
+    },
+    {
+      "name": "Gizem Türkoğlu Boyvat",
+      "given": "Gizem",
+      "family": "Türkoğlu Boyvat",
+      "orcid": "https://orcid.org/0000-0002-8614-1714",
+      "affiliation_crossref": "Tokat Gaziosmanpaşa University",
+      "affiliation_first": "Special Education Department, Education Faculty, Tokat Gaziosmanpaşa University, Tokat, Turkey",
+      "affiliation_display": "Tokat Gaziosmanpaşa University, Turkey"
+    }
+  ],
+  "abstract": {
+    "text": "Students with learning disabilities may experience difficulties in understanding abstract scientific concepts and terminology and relating them to everyday life. The Grade 4 Food unit provides a relevant context for examining these learning experiences because its content can be closely connected to familiar everday life. The aim of this study is to explore the views of teachers and students with learning disabilities on the Grade 4 Food unit. Using an embedded single-case study design, the teaching and learning process of the Grade 4 Food unit and the related instructional practices and assessment practices were examined holistically. Data were collected from 10 teachers and 10 students with learning disabilities selected through criterion sampling. Data were collected through semi-structured interviews and document analysis. Thematic analysis was used in an inductive approach to analyze the data. The findings showed that students with learning disabilities learned about foods within the framework of the food groups they encountered in everyday life. They had limitations and conceptual deficiencies in relating nutrients to everyday foods. In this context, students with learning disabilities struggled to grasp the science terminology required for the Food unit. Although teachers reported efforts to connect concepts with everyday life examples, students’ responses continued to reflect difficulties in linking these examples to scientific concepts and terminology. In addition, there were deficiencies in the teachers’ use of instructional adaptations in the teaching process. These findings contribute to science education research by highlighting the relationship among students’ conceptual difficulties, everyday life connections, and teachers’ reported instructional practices in the Grade 4 Food unit.",
+    "sections": {
+      "Background": "Students with learning disabilities may experience difficulties in understanding abstract scientific concepts and terminology and relating them to everyday life. The Grade 4 Food unit provides a relevant context for examining these learning experiences because its content can be closely connected to familiar everday life.",
+      "Purpose": "The aim of this study is to explore the views of teachers and students with learning disabilities on the Grade 4 Food unit. Using an embedded single-case study design, the teaching and learning process of the Grade 4 Food unit and the related instructional practices and assessment practices were examined holistically.",
+      "Sample": "Data were collected from 10 teachers and 10 students with learning disabilities selected through criterion sampling.",
+      "Design and Methods": "Data were collected through semi-structured interviews and document analysis. Thematic analysis was used in an inductive approach to analyze the data.",
+      "Results": "The findings showed that students with learning disabilities learned about foods within the framework of the food groups they encountered in everyday life. They had limitations and conceptual deficiencies in relating nutrients to everyday foods. In this context, students with learning disabilities struggled to grasp the science terminology required for the Food unit. Although teachers reported efforts to connect concepts with everyday life examples, students’ responses continued to reflect difficulties in linking these examples to scientific concepts and terminology. In addition, there were deficiencies in the teachers’ use of instructional adaptations in the teaching process.",
+      "Conclusion": "These findings contribute to science education research by highlighting the relationship among students’ conceptual difficulties, everyday life connections, and teachers’ reported instructional practices in the Grade 4 Food unit."
+    },
+    "source": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248 (publisher page, read in browser 2026-10-26)",
+    "note": "Section text matches the published abstract on the publisher page."
+  },
+  "publisher_keywords": [
+    "Learning disabilities",
+    "teachers",
+    "science education",
+    "inclusive education",
+    "qualitative research"
+  ],
+  "openalex_keywords": [
+    "learning disabilities",
+    "science education",
+    "food groups",
+    "nutrients",
+    "everyday life connections",
+    "scientific terminology",
+    "conceptual difficulties",
+    "pedagogical adaptation",
+    "assessment practices",
+    "teacher and student perspectives",
+    "elementary science teaching"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2743248",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2743248",
+      "retrieved": "2026-10-26"
+    },
+    {
+      "what": "published abstract, full first affiliations, keywords",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248",
+      "retrieved": "2026-10-26",
+      "method": "read in a browser; the page blocks scripted requests"
+    }
+  ],
+  "missing": []
+}

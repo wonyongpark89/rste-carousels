@@ -1,0 +1,27 @@
+{
+  "doi": "10.1080/02635143.2026.2743248",
+  "pages": {
+    "investigate": [
+      "Students with learning disabilities may have difficulty understanding ==abstract scientific concepts and terminology== and relating them to everyday life.",
+      "The study explores ==teachers’ and students’ views== on the Grade 4 Food unit, using an embedded single-case design.",
+      "Data came from semi-structured interviews with ==10 teachers and 10 students== and document analysis."
+    ],
+    "find": [
+      "Students learned about foods within the ==food groups they encountered== in everyday life.",
+      "They showed ==conceptual deficiencies in relating nutrients== to everyday foods and struggled with science terminology.",
+      "Despite teachers’ reported use of everyday examples, ==students still struggled to link them== to scientific concepts.",
+      "Teachers’ use of ==instructional adaptations showed deficiencies==."
+    ]
+  },
+  "caption": {
+    "emoji": "🍎",
+    "question": "How do students with learning disabilities make sense of science terminology about food?",
+    "intro": "Tuğba Pürsün and Gizem Türkoğlu Boyvat explore **teacher and student views** on the Grade 4 Food unit, highlighting the relationship among conceptual difficulties, everyday life connections and teachers’ reported instructional practices.",
+    "hashtags": ["ScienceEducation", "InclusiveEducation", "LearningDisabilities", "SpecialEducation", "PrimaryScience", "ScienceTeaching", "TeacherEducation", "QualitativeResearch", "EducationResearch"]
+  },
+  "source_notes": {
+    "investigate": "Background sentence 1; Purpose (aim, embedded single-case design); Sample (10 teachers, 10 students with learning disabilities); Design and Methods (semi-structured interviews, document analysis).",
+    "find": "Results sentences 1-5: food groups from everyday life; limitations and conceptual deficiencies relating nutrients to everyday foods; struggled with science terminology; teachers reported efforts with everyday examples but students' responses still reflected difficulties; deficiencies in teachers' use of instructional adaptations.",
+    "caption": "Question from Background and Results; intro from Purpose and Conclusion. No claims beyond the abstract."
+  }
+}

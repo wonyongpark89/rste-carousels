@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" preserveAspectRatio="none">
+  <!-- a marker stroke laid down by hand: uneven top edge, slightly tilted, ragged ends -->
+  <path d="M7 9 C 46 4, 98 7, 150 5 C 214 2, 286 6, 348 3 C 368 2, 386 4, 395 7
+           C 399 15, 398 26, 393 34 C 352 37, 300 34, 240 36 C 170 39, 98 35, 40 38
+           C 26 39, 12 37, 5 35 C 1 27, 2 17, 7 9 Z"
+        fill="#cfe86a" fill-opacity="0.75"/>
+</svg>
