@@ -7,6 +7,18 @@
     "draft:10.1080/02635143.2026.2752293:6adef9fc1f120735cf954f77": {
       "at": "2026-10-26T06:58:24Z",
       "gmail_message_id": "1a17700c313fb980"
+    },
+    "manual:10.1080/02635143.2026.2753076": {
+      "at": "2026-10-30T21:18:17Z",
+      "gmail_message_id": "1a18ead711e04568"
+    },
+    "manual:10.1080/02635143.2026.2754282": {
+      "at": "2026-10-30T21:18:17Z",
+      "gmail_message_id": "1a18ead711e04568"
+    },
+    "runerror:2026-10-30:c468e59ac4": {
+      "at": "2026-10-30T21:18:17Z",
+      "gmail_message_id": "1a18ead711e04568"
     }
   },
   "attempts": [
@@ -21,6 +33,20 @@
       "keys": [
         "draft:10.1080/02635143.2026.2743248:6adef9fbe4fd2be3e6581cd2",
         "draft:10.1080/02635143.2026.2752293:6adef9fc1f120735cf954f77"
+      ]
+    },
+    {
+      "at": "2026-10-30T21:18:17Z",
+      "result": "sent",
+      "gmail_message_id": "1a18ead711e04568",
+      "subject": "[RSTE LinkedIn] Action needed: 3 issues in the scheduled run",
+      "to": [
+        "wypark5121@gmail.com"
+      ],
+      "keys": [
+        "manual:10.1080/02635143.2026.2753076",
+        "manual:10.1080/02635143.2026.2754282",
+        "runerror:2026-10-30:c468e59ac4"
       ]
     }
   ]
