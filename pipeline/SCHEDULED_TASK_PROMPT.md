@@ -1,6 +1,6 @@
 RSTE LINKEDIN — SCHEDULED RUN
 
-Scheduled RSTE new-article run. Work in the root of the GitHub repo wonyongpark89/rste-carousels (the cloud session's working directory; this repo is also the public host repo, so config.json host_repo is "."). Run all commands from the repo root. Article folders go under article-carousels/ in the repo. If the `rste-article-carousel` skill or the built-in browser is unavailable in this environment, do not improvise: `flag` each new article with that reason and continue to STEP 4. Reuse the existing pipeline (pipeline/rste_pipeline.py, pipeline/notify.py) and the `rste-article-carousel` skill; do not rebuild or redesign them. Keep a short list of anything that fails, with the DOI, for STEP 4.
+Scheduled RSTE new-article run. Work in the root of the GitHub repo wonyongpark89/rste-carousels (the cloud session's working directory; this repo is also the public host repo, so config.json host_repo is "."). Run all commands from the repo root. Article folders go under article-carousels/ in the repo. The cloud environment has no built-in browser, so scheduled runs use the skill's provisional mode (STEP 2). If the `rste-article-carousel` skill itself is unavailable, do not improvise: `flag` each new article with that reason and continue to STEP 4. Reuse the existing pipeline (pipeline/rste_pipeline.py, pipeline/notify.py) and the `rste-article-carousel` skill; do not rebuild or redesign them. Keep a short list of anything that fails, with the DOI, for STEP 4.
 
 STEP 1 — DISCOVER NEW ARTICLES
 
@@ -8,9 +8,11 @@ Run `python pipeline/rste_pipeline.py check --scheduled`. If it exits with code 
 
 STEP 2 — GENERATE CAROUSELS
 
-For each article with status `new` (see `python pipeline/rste_pipeline.py review`), make a draft with the `rste-article-carousel` skill exactly as the skill describes: fetch_metadata.py, confirm the affiliations, abstract and keywords on the tandfonline page in the built-in browser, write content.json from the abstract only, then build.py. Do not change the template.
+For each article with status `new` (see `python pipeline/rste_pipeline.py review`), make a draft with the `rste-article-carousel` skill: `python .claude/skills/rste-article-carousel/scripts/fetch_metadata.py <DOI> article-carousels --provisional` (the publisher page cannot be opened here; do not try tandfonline), write content.json from that abstract only, then build.py (set CHROME=/opt/pw-browsers/chromium if Chrome is not found; if Pillow or PyMuPDF are missing, `python3 -m pip install --ignore-installed pillow pymupdf`). Do not change the template.
+- fetch_metadata.py exits 3 if OpenAlex has no abstract yet or Crossref has no affiliation for an author. Brand-new articles are often not indexed for days. Leave the article as `new` (do not flag it), list it as "waiting for abstract" in the run summary, and it is retried on the next run. Only if it is still unavailable 14 days after first online publication, `flag` it.
+- Provisional metadata carries a `provisional` block, and `record-draft` copies it into the register. It makes the report and the notification email tell the Editor to compare the abstract and affiliations with the tandfonline page before approving. Never remove that block yourself.
 - On success: `python pipeline/rste_pipeline.py record-draft <DOI> "<article folder>"`.
-- If the abstract or any affiliation cannot be confirmed, the page needs a CAPTCHA or sign-in, or the build fails: `python pipeline/rste_pipeline.py flag <DOI> "<what is missing>"`. Never guess. Continue with the other articles.
+- If the build fails, or the abstract is too thin to write the pages from without guessing: `python pipeline/rste_pipeline.py flag <DOI> "<what is missing>"`. Never guess. Continue with the other articles.
 - Never touch folders whose status is approved, hosted, queued or published.
 
 STEP 3 — CREATE BUFFER DRAFTS (drafts only)

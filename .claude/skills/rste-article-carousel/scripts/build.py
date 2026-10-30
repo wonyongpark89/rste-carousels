@@ -23,7 +23,7 @@ CHROME_CANDIDATES = [
     r"C:\Program Files\Google\Chrome\Application\chrome.exe",
     r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-    "/usr/bin/google-chrome", "/usr/bin/chromium",
+    "/usr/bin/google-chrome", "/usr/bin/chromium", "/opt/pw-browsers/chromium",
 ]
 CHROME = next((c for c in CHROME_CANDIDATES if c and pathlib.Path(c).exists()), None)
 
@@ -147,7 +147,8 @@ def check(meta, content):
     for k in ("doi", "title", "journal", "authors", "abstract"):
         if not meta.get(k):
             fail(f"metadata.json has no {k}")
-    if not meta["abstract"].get("text") or "unverified" in (meta["abstract"].get("source") or ""):
+    provisional = bool(meta.get("provisional"))   # set only by fetch_metadata.py --provisional; the Editor is warned
+    if not meta["abstract"].get("text") or ("unverified" in (meta["abstract"].get("source") or "") and not provisional):
         fail("the abstract is not confirmed against the published source")
     for a in meta["authors"]:
         if not a.get("affiliation_first"):
@@ -298,7 +299,7 @@ def chrome(*args, capture=False):
         fail("Chrome or Edge not found; set the CHROME environment variable")
     r = subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--hide-scrollbars",
                         "--force-device-scale-factor=1", "--allow-file-access-from-files",
-                        "--virtual-time-budget=5000", *args],
+                        "--virtual-time-budget=5000", *(["--no-sandbox"] if hasattr(os, "geteuid") and os.geteuid() == 0 else []), *args],
                        check=True, capture_output=True, text=True, encoding="utf-8", errors="replace")
     return r.stdout
 

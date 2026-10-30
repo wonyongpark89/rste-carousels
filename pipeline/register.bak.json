@@ -3333,7 +3333,7 @@
         "crossref"
       ],
       "first_detected": "2026-10-30T21:05:54Z",
-      "status": "needs_manual_review",
+      "status": "new",
       "events": [
         {
           "at": "2026-10-30T21:06:36Z",
@@ -3345,9 +3345,13 @@
           "at": "2026-10-30T21:06:39Z",
           "event": "flagged",
           "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+        },
+        {
+          "at": "2026-10-30T21:13:46Z",
+          "event": "retry",
+          "status": "new"
         }
-      ],
-      "manual_reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+      ]
     },
     "10.1080/02635143.2026.2754282": {
       "doi": "10.1080/02635143.2026.2754282",
@@ -3366,15 +3370,21 @@
         "crossref"
       ],
       "first_detected": "2026-10-30T21:05:54Z",
-      "status": "new",
+      "status": "needs_manual_review",
       "events": [
         {
           "at": "2026-10-30T21:06:36Z",
           "event": "detected",
           "status": "new",
           "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-30T21:06:39Z",
+          "event": "flagged",
+          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
         }
-      ]
+      ],
+      "manual_reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
     }
   }
 }
