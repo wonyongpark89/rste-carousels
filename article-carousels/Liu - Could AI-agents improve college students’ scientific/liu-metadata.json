@@ -1,0 +1,101 @@
+{
+  "doi": "10.1080/02635143.2026.2753076",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2753076",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2753076",
+  "journal": "Research in Science & Technological Education",
+  "title": "Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course",
+  "type": "journal-article",
+  "published_online": "2026-10-29",
+  "published_print": null,
+  "volume": null,
+  "issue": null,
+  "pages": "1-31",
+  "authors": [
+    {
+      "name": "Yan Liu",
+      "given": "Yan",
+      "family": "Liu",
+      "orcid": null,
+      "affiliation_crossref": "Shanghai Jiao Tong University",
+      "affiliation_first": "Shanghai Jiao Tong University, Shanghai, China",
+      "affiliation_display": "Shanghai Jiao Tong University, China"
+    },
+    {
+      "name": "Yi Zong",
+      "given": "Yi",
+      "family": "Zong",
+      "orcid": null,
+      "affiliation_crossref": "Tongji University",
+      "affiliation_first": "Tongji University, Shanghai, China",
+      "affiliation_display": "Tongji University, China"
+    },
+    {
+      "name": "Qi Zhao",
+      "given": "Qi",
+      "family": "Zhao",
+      "orcid": null,
+      "affiliation_crossref": "Shanghai Jiao Tong University",
+      "affiliation_first": "Shanghai Jiao Tong University, Shanghai, China",
+      "affiliation_display": "Shanghai Jiao Tong University, China"
+    },
+    {
+      "name": "Qi Wang",
+      "given": "Qi",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0001-9006-9914",
+      "affiliation_crossref": "Beijing Foreign Studies University",
+      "affiliation_first": "Beijing Foreign Studies University, Beijing, China",
+      "affiliation_display": "Beijing Foreign Studies University, China"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Scientific argumentation ability is an integrated ability in AI era. However, it’s difficult to improve learners’ scientific argumentation ability in traditional classes due to individual differences. Purpose: Therefore, this study decomposed scientific argumentation ability based on the CER+R (Claim–Evidence–Reasoning–Rebuttal) fra mework and integrated these components to construct a scientific argumentation AI agent. This approach goes beyond traditional methods and makes the cultivation of scientific argumentation ability a data-driven and personalized process. Sample: Participants were 18 university students enrolled in an Ecology course at a university in eastern China, with similar educational backgrounds and comparable initial performance.Design and methods A crossover experimental design was adopted, with two groups experiencing opposite sequences of AI-agent access: one used the agent first and then practiced independently, while the other practiced independently before using the agent. Guided by the ICAP and CER+R frameworks, epistemic network analysis (ENA) and lag sequential analysis (LSA) were used to examine learners’ cognition and argumentation behaviors, respectively. Descriptive and inferential statistical analyses were conducted to assess scientific argumentation performance. Results: Students who practiced independently before gaining access to the AI agent demonstrated more interactive and constructive engagement. Their argumentation behaviors generally followed the CER+R framework, although rebuttals often lacked subsequent evidence or reasoning. Among the 12 students with complete test data, scientific argumentation performance improved significantly from pre-test to mid-test and post-test. Questionnaire results also showed increases in students’ trust in AI and engagement. Conclusion: The findings suggest that a CER+R-based AI agent may support the development of scientific argumentation performance and positive learning attitudes. Introducing AI support after independent exploration may encourage deeper engagement, while additional scaffolding is needed to help students integrate rebuttals into complete arguments.",
+    "source": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2753076 (reconstructed; unverified)",
+    "sections": [
+      {
+        "heading": "Background",
+        "text": "Scientific argumentation ability is an integrated ability in AI era. However, it’s difficult to improve learners’ scientific argumentation ability in traditional classes due to individual differences."
+      },
+      {
+        "heading": "Purpose",
+        "text": "Therefore, this study decomposed scientific argumentation ability based on the CER+R (Claim–Evidence–Reasoning–Rebuttal) fra mework and integrated these components to construct a scientific argumentation AI agent. This approach goes beyond traditional methods and makes the cultivation of scientific argumentation ability a data-driven and personalized process."
+      },
+      {
+        "heading": "Sample",
+        "text": "Participants were 18 university students enrolled in an Ecology course at a university in eastern China, with similar educational backgrounds and comparable initial performance.Design and methods A crossover experimental design was adopted, with two groups experiencing opposite sequences of AI-agent access: one used the agent first and then practiced independently, while the other practiced independently before using the agent. Guided by the ICAP and CER+R frameworks, epistemic network analysis (ENA) and lag sequential analysis (LSA) were used to examine learners’ cognition and argumentation behaviors, respectively. Descriptive and inferential statistical analyses were conducted to assess scientific argumentation performance."
+      },
+      {
+        "heading": "Results",
+        "text": "Students who practiced independently before gaining access to the AI agent demonstrated more interactive and constructive engagement. Their argumentation behaviors generally followed the CER+R framework, although rebuttals often lacked subsequent evidence or reasoning. Among the 12 students with complete test data, scientific argumentation performance improved significantly from pre-test to mid-test and post-test. Questionnaire results also showed increases in students’ trust in AI and engagement."
+      },
+      {
+        "heading": "Conclusion",
+        "text": "The findings suggest that a CER+R-based AI agent may support the development of scientific argumentation performance and positive learning attitudes. Introducing AI support after independent exploration may encourage deeper engagement, while additional scaffolding is needed to help students integrate rebuttals into complete arguments."
+      }
+    ]
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2753076",
+      "retrieved": "2026-10-30"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2753076",
+      "retrieved": "2026-10-30"
+    }
+  ],
+  "missing": [],
+  "provisional": {
+    "created": "2026-10-30",
+    "unverified": [
+      "abstract (OpenAlex reconstruction, headings restored)",
+      "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+      "keywords (OpenAlex; no publisher keywords)"
+    ],
+    "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+  }
+}

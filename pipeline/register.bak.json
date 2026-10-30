@@ -4,11 +4,11 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-10-30T21:06:36Z",
-    "last_run": "2026-10-30T21:06:36Z",
+    "last_success": "2026-10-30T21:23:33Z",
+    "last_run": "2026-10-30T21:23:33Z",
     "last_sources": {
       "tandf_rss": "ok (120 items)",
-      "crossref": "ok (11 works created since 2026-08-27)"
+      "crossref": "ok (9 works created since 2026-08-31)"
     }
   },
   "articles": {
@@ -3329,8 +3329,71 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2753076",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
+      ],
+      "first_detected": "2026-10-30T21:05:54Z",
+      "status": "pending_approval",
+      "events": [
+        {
+          "at": "2026-10-30T21:06:36Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-30T21:06:39Z",
+          "event": "flagged",
+          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+        },
+        {
+          "at": "2026-10-30T21:13:46Z",
+          "event": "retry",
+          "status": "new"
+        },
+        {
+          "at": "2026-10-30T21:24:41Z",
+          "event": "draft_recorded",
+          "folder": "article-carousels/Liu - Could AI-agents improve college students’ scientific",
+          "provisional": true
+        }
+      ],
+      "folder": "article-carousels/Liu - Could AI-agents improve college students’ scientific",
+      "files": {
+        "pdf": "article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-carousel.pdf",
+        "caption": "article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-caption.txt",
+        "cover": "article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-slide-1.png"
+      },
+      "hashes": {
+        "pdf": "d95c43df26a77359a2d7f4a4ce4e44291265aba7f4a4ff3354966f3f713ae892",
+        "caption": "404405a7ce107c4c9d6bb929c0e8d4640aebfc31ea99b6850d9ddfd8335661db",
+        "cover": "c862c3d62500a43126a01f75d93fa0b340f3364e252c69a4ca39f2548a145d79"
+      },
+      "provisional": {
+        "created": "2026-10-30",
+        "unverified": [
+          "abstract (OpenAlex reconstruction, headings restored)",
+          "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+          "keywords (OpenAlex; no publisher keywords)"
+        ],
+        "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+      }
+    },
+    "10.1080/02635143.2026.2754282": {
+      "doi": "10.1080/02635143.2026.2754282",
+      "title": "Developing a questionnaire to measure junior high school students’ online science capital",
+      "authors": [
+        "Wei-Shou Chen",
+        "Chin‑Chung Tsai"
+      ],
+      "online_date": "2026-10-30",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2754282",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-10-30T21:05:54Z",
       "status": "new",
@@ -3352,39 +3415,6 @@
           "status": "new"
         }
       ]
-    },
-    "10.1080/02635143.2026.2754282": {
-      "doi": "10.1080/02635143.2026.2754282",
-      "title": "Developing a questionnaire to measure junior high school students’ online science capital",
-      "authors": [
-        "Wei-Shou Chen",
-        "Chin‑Chung Tsai"
-      ],
-      "online_date": "2026-10-30",
-      "volume": null,
-      "issue": null,
-      "type": "journal-article",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2754282",
-      "seen_in": [
-        "tandf_rss",
-        "crossref"
-      ],
-      "first_detected": "2026-10-30T21:05:54Z",
-      "status": "needs_manual_review",
-      "events": [
-        {
-          "at": "2026-10-30T21:06:36Z",
-          "event": "detected",
-          "status": "new",
-          "why": "first online publication detected"
-        },
-        {
-          "at": "2026-10-30T21:06:39Z",
-          "event": "flagged",
-          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
-        }
-      ],
-      "manual_reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
     }
   }
 }

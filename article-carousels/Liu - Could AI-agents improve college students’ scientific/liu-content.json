@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2753076",
+  "pages": {
+    "investigate": [
+      "Scientific argumentation is hard to improve in traditional classes because of ==individual differences==.",
+      "The authors built an ==AI agent based on the CER+R framework== to support personalised, data-driven practice.",
+      "Eighteen Ecology students in eastern China used the agent either before or after practising independently in a ==crossover design==."
+    ],
+    "find": [
+      "Students who ==practised independently before using the agent== showed more interactive and constructive engagement.",
+      "Among the 12 students with complete test data, argumentation performance ==improved significantly== from pre-test to mid-test and post-test.",
+      "Rebuttals often lacked later evidence or reasoning, so the authors suggest ==additional scaffolding== is needed."
+    ]
+  },
+  "caption": {
+    "emoji": "🔍",
+    "question": "Can an AI agent help students argue like scientists?",
+    "intro": "Liu, Zong, Zhao and Wang compare **an AI agent built on the CER+R framework** with independent practice in a crossover study of 18 university Ecology students in eastern China.",
+    "hashtags": ["ScienceEducation", "ScientificArgumentation", "AIinEducation", "HigherEducation", "EcologyEducation", "EducationalResearch", "CrossoverDesign", "STEMEducation"]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose, Sample and Design and methods sections of the abstract.",
+    "find": "Results and Conclusion sections of the abstract.",
+    "caption": "Purpose, Sample and Design and methods sections of the abstract."
+  }
+}

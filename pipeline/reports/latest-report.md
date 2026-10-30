@@ -1,15 +1,14 @@
-# RSTE new-article check - 2026-10-30 21:06 UTC
+# RSTE new-article check - 2026-10-30 21:23 UTC
 
 - Run type: scheduled
-- Outcome: 2 new, 0 for manual review, 0 skipped.
+- Outcome: 0 new, 0 for manual review, 0 skipped.
 - Source tandf_rss: ok (120 items)
-- Source crossref: ok (11 works created since 2026-08-27)
+- Source crossref: ok (9 works created since 2026-08-31)
 - Nothing was published or queued. Buffer drafts, if any, are listed below.
 
 ## Newly detected articles
 
-- 10.1080/02635143.2026.2753076  [needs_manual_review]  Liu - Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course  (online 2026-10-29)
-- 10.1080/02635143.2026.2754282  [needs_manual_review]  Chen - Developing a questionnaire to measure junior high school students’ online science capital  (online 2026-10-30)
+- None.
 
 ## Drafts awaiting approval
 
@@ -23,11 +22,16 @@
     - pdf: `article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-carousel.pdf`
     - caption: `article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-caption.txt`
     - cover: `article-carousels/Shertayeva - Enhancing project-based chemistry learning in rural/shertayeva-slide-1.png`
+- 10.1080/02635143.2026.2753076  [pending_approval]  Liu - Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course  (online 2026-10-29)
+    - Buffer draft: 6ae50b3e406ab8a0188321f8
+    - pdf: `article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-carousel.pdf`
+    - caption: `article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-caption.txt`
+    - cover: `article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-slide-1.png`
+    - PROVISIONAL: built without the publisher page. Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording. Unverified: abstract (OpenAlex reconstruction, headings restored); affiliation_first and affiliation_display (Crossref short form, not the full published affiliation); keywords (OpenAlex; no publisher keywords).
 
 ## Needs manual attention
 
-- 10.1080/02635143.2026.2753076  [needs_manual_review]  Liu - Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course  (online 2026-10-29) - Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page
-- 10.1080/02635143.2026.2754282  [needs_manual_review]  Chen - Developing a questionnaire to measure junior high school students’ online science capital  (online 2026-10-30) - Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page
+- 10.1080/02635143.2026.2754282  [new]  Chen - Developing a questionnaire to measure junior high school students’ online science capital  (online 2026-10-30) - 
 
 ## Issue assignment noted (no new post)
 
