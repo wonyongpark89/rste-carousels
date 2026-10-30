@@ -71,7 +71,8 @@ def collect(run_error=None):
             if key in done:
                 continue
             if bid:
-                drafts.append({"key": key, "doi": doi, "title": rec.get("title", ""), "buffer_draft_id": bid})
+                drafts.append({"key": key, "doi": doi, "title": rec.get("title", ""), "buffer_draft_id": bid,
+                               "provisional": bool(rec.get("provisional"))})
             else:
                 problems.append({"key": key, "doi": doi, "title": rec.get("title", ""),
                                  "what": "Carousel built, but no Buffer draft was recorded. "
@@ -110,10 +111,17 @@ def compose(drafts, problems):
         h.append("<ol>")
         for i, d in enumerate(drafts, 1):
             t += [f"{i}. {d['title']}", f"   DOI: https://doi.org/{d['doi']}",
-                  f"   Buffer draft ID: {d['buffer_draft_id']} (open {BUFFER_URL} > RSTE LinkedIn Page > Drafts)", ""]
+                  f"   Buffer draft ID: {d['buffer_draft_id']} (open {BUFFER_URL} > RSTE LinkedIn Page > Drafts)"]
+            if d["provisional"]:
+                t.append("   CHECK BEFORE APPROVING: abstract and affiliations come from OpenAlex/Crossref, not the "
+                         "publisher page. Compare them with the tandfonline page.")
+            t.append("")
             h.append(f"<li><strong>{html.escape(d['title'])}</strong><br>"
                      f"DOI: <a href=\"https://doi.org/{d['doi']}\">{d['doi']}</a><br>"
-                     f"Buffer draft ID: <code>{d['buffer_draft_id']}</code></li>")
+                     f"Buffer draft ID: <code>{d['buffer_draft_id']}</code>"
+                     + ("<br><strong>Check before approving:</strong> abstract and affiliations come from OpenAlex/Crossref, "
+                        "not the publisher page. Compare them with the tandfonline page." if d["provisional"] else "")
+                     + "</li>")
         h.append("</ol>")
     if problems:
         t.append("NEEDS YOUR ATTENTION")

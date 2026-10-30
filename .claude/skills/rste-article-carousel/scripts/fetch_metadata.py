@@ -1,6 +1,6 @@
 """Draft metadata.json for one RSTE article from open scholarly APIs.
 
-    python fetch_metadata.py <DOI> [parent_dir]
+    python fetch_metadata.py <DOI> [parent_dir] [--provisional]
 
 parent_dir defaults to ./article-carousels. The article gets its own folder there, named
 "<first author's family name> - <first six words of the title>", for example
@@ -14,6 +14,15 @@ and the published abstract, but it blocks scripted requests. The draft therefore
 those fields under "missing" until someone confirms them from the publisher page (or
 the article PDF) and records the source. build.py refuses to render while "missing"
 is not empty.
+
+--provisional (scheduled cloud runs, where the publisher page cannot be opened) completes the
+draft from the open sources instead: the OpenAlex abstract (section headings restored), the
+OpenAlex keywords and the Crossref affiliation (organisation, place) for each author. Every
+such field is listed under "provisional" in metadata.json, so build.py renders the draft and
+the pipeline shows the Editor a warning to compare it with the publisher page before approving.
+It exits with code 3, writing nothing, if OpenAlex has no abstract yet (new articles often
+take days to be indexed) or Crossref has no affiliation for an author; the article is retried
+on a later run.
 """
 import datetime, json, pathlib, re, sys, unicodedata, urllib.parse, urllib.request
 
@@ -24,6 +33,26 @@ def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)
+
+
+HEADINGS = ("Design and Methods", "Design/methodology/approach", "Methods", "Method", "Background", "Purpose",
+            "Aims", "Aim", "Context", "Rationale", "Sample", "Design", "Results", "Findings",
+            "Conclusions", "Conclusion", "Implications")
+
+
+def restore_sections(text):
+    """OpenAlex runs the structured headings into the text ('...credibility.Purpose This study').
+    Put 'Heading: ' back and return (text, sections); text is returned unchanged unless 3+ headings are found."""
+    pat = re.compile(r"(?:(?<=^)|(?<=[.!?)\u201d\"']))(" + "|".join(re.escape(h) for h in HEADINGS) + r")(?=:?\s+[A-Z\u201c\"(])")
+    hits = list(pat.finditer(text))
+    if len(hits) < 3 or hits[0].start() != 0:
+        return text, []
+    sections = []
+    for i, m in enumerate(hits):
+        end = hits[i + 1].start() if i + 1 < len(hits) else len(text)
+        body = text[m.end():end].lstrip(": ").strip()
+        sections.append({"heading": m.group(1), "text": body})
+    return " ".join(f"{x['heading']}: {x['text']}" for x in sections), sections
 
 
 def folder_name(authors, title):
@@ -54,7 +83,7 @@ def existing_folder(parent, doi):
     return None
 
 
-def main(doi, parent_dir="article-carousels"):
+def main(doi, parent_dir="article-carousels", provisional=False):
     doi = re.sub(r"^(https?://(dx\.)?doi\.org/|doi:|https?://www\.tandfonline\.com/doi/(full|abs)/)", "", doi.strip())
     parent = pathlib.Path(parent_dir)
     parent.mkdir(parents=True, exist_ok=True)
@@ -97,17 +126,47 @@ def main(doi, parent_dir="article-carousels"):
         inv = oa.get("abstract_inverted_index")
         if inv:
             pos = {p: w for w, ps in inv.items() for p in ps}
-            abstract = {"text": " ".join(pos[i] for i in sorted(pos)), "source": oa_url + " (reconstructed; unverified)"}
+            text, sections = restore_sections(" ".join(pos[i] for i in sorted(pos)))
+            abstract = {"text": text, "source": oa_url + " (reconstructed; unverified)"}
+            if sections:
+                abstract["sections"] = sections
         keywords = [k["display_name"] for k in oa.get("keywords", [])]
         sources.append({"what": "abstract (reconstructed), keywords", "url": oa_url, "retrieved": today})
     except Exception as e:  # OpenAlex is optional
         sources.append({"what": f"OpenAlex unavailable: {e}", "url": None, "retrieved": today})
 
-    missing += [
-        "affiliation_first for every author (confirm on the publisher page or PDF)",
-        "affiliation_display for every author (house style: Organisation, Country)",
-        "abstract (confirm the published abstract on the publisher page or PDF)",
-    ]
+    provisional_note = None
+    if provisional:
+        gaps = []
+        if not abstract["text"]:
+            gaps.append("OpenAlex has no abstract for this DOI yet")
+        for a, c in zip(authors, cr.get("author", [])):
+            aff = next((x for x in c.get("affiliation", []) if x.get("name")), None)
+            place = (aff or {}).get("place") or []
+            country = place[0].rsplit(",", 1)[-1].strip() if place else ""
+            if not aff or not country:
+                gaps.append(f"Crossref has no affiliation with a place for {a['name']}")
+                continue
+            a["affiliation_first"] = f"{aff['name']}, {place[0]}"
+            a["affiliation_display"] = f"{aff['name']}, {country}"
+        if gaps:
+            print("provisional draft not possible:", *("  - " + g for g in gaps), sep="\n")
+            sys.exit(3)
+        provisional_note = {
+            "created": today,
+            "unverified": ["abstract (OpenAlex reconstruction, headings restored)",
+                           "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+                           "keywords (OpenAlex; no publisher keywords)"],
+            "action": "Compare the abstract and affiliations with the tandfonline page before approving; "
+                      "if they differ, 'Revise' with the published wording.",
+        }
+        missing = [m for m in missing if m == "authors"]
+    else:
+        missing += [
+            "affiliation_first for every author (confirm on the publisher page or PDF)",
+            "affiliation_display for every author (house style: Organisation, Country)",
+            "abstract (confirm the published abstract on the publisher page or PDF)",
+        ]
     meta = {
         "doi": doi,
         "doi_url": "https://doi.org/" + doi,
@@ -125,6 +184,8 @@ def main(doi, parent_dir="article-carousels"):
         "sources": sources,
         "missing": missing,
     }
+    if provisional_note:
+        meta["provisional"] = provisional_note
     if meta["journal"]:
         meta["journal"] = meta["journal"].replace("&amp;", "&")
     if meta["journal"] != "Research in Science & Technological Education":
@@ -139,7 +200,7 @@ def main(doi, parent_dir="article-carousels"):
 
 
 if __name__ == "__main__":
-    args = [a for a in sys.argv[1:] if a != "--force"]
+    args = [a for a in sys.argv[1:] if a not in ("--force", "--provisional")]
     if not 1 <= len(args) <= 2:
         sys.exit(__doc__)
-    main(*args)
+    main(*args, provisional="--provisional" in sys.argv)

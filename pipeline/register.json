@@ -4,11 +4,11 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-10-26T06:53:38Z",
-    "last_run": "2026-10-26T06:53:38Z",
+    "last_success": "2026-10-30T21:06:36Z",
+    "last_run": "2026-10-30T21:06:36Z",
     "last_sources": {
-      "tandf_rss": "ok (118 items)",
-      "crossref": "ok (9 works created since 2026-08-21)"
+      "tandf_rss": "ok (120 items)",
+      "crossref": "ok (11 works created since 2026-08-27)"
     }
   },
   "articles": {
@@ -3218,8 +3218,8 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-10-26T06:52:51Z",
       "status": "pending_approval",
@@ -3274,8 +3274,8 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-10-26T06:52:51Z",
       "status": "pending_approval",
@@ -3313,6 +3313,82 @@
       "buffer_draft_status": "draft",
       "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2752293/shertayeva-carousel.pdf",
       "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2752293/shertayeva-cover.png"
+    },
+    "10.1080/02635143.2026.2753076": {
+      "doi": "10.1080/02635143.2026.2753076",
+      "title": "Could AI-agents improve college students’ scientific argumentation ability? A case study in ecology course",
+      "authors": [
+        "Yan Liu",
+        "Yi Zong",
+        "Qi Zhao",
+        "Qi Wang"
+      ],
+      "online_date": "2026-10-29",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2753076",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-30T21:05:54Z",
+      "status": "new",
+      "events": [
+        {
+          "at": "2026-10-30T21:06:36Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-30T21:06:39Z",
+          "event": "flagged",
+          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+        },
+        {
+          "at": "2026-10-30T21:13:46Z",
+          "event": "retry",
+          "status": "new"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2754282": {
+      "doi": "10.1080/02635143.2026.2754282",
+      "title": "Developing a questionnaire to measure junior high school students’ online science capital",
+      "authors": [
+        "Wei-Shou Chen",
+        "Chin‑Chung Tsai"
+      ],
+      "online_date": "2026-10-30",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2754282",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-30T21:05:54Z",
+      "status": "new",
+      "events": [
+        {
+          "at": "2026-10-30T21:06:36Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-30T21:06:39Z",
+          "event": "flagged",
+          "reason": "Built-in browser unavailable in this cloud environment; cannot confirm affiliations/abstract/keywords on tandfonline page"
+        },
+        {
+          "at": "2026-10-30T21:13:46Z",
+          "event": "retry",
+          "status": "new"
+        }
+      ]
     }
   }
 }

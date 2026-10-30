@@ -39,6 +39,8 @@ Paths below are relative to this skill folder. Article folders go in the user's 
    ```
    This writes `metadata.json` from Crossref (title, authors, order, ORCID) and OpenAlex (a reconstructed abstract, marked unverified). It lists the fields still to confirm under `"missing"`. If the DOI already has a folder, it stops rather than overwrite confirmed facts (`--force` overrides).
 
+   `--provisional` is for runs that cannot open the publisher page (scheduled cloud runs). It fills the abstract (headings restored), keywords and Crossref affiliations from the open sources and records them in a `provisional` block, so `build.py` renders and the pipeline warns the Editor to compare with the publisher page before approving. It exits 3, writing nothing, if OpenAlex has no abstract yet or an affiliation is missing. Never use it when you can do step 2.
+
 2. **Confirm against the publisher.** Open `https://www.tandfonline.com/doi/full/<DOI>` in the built-in browser; scripted requests are blocked by Cloudflare. Read:
    - each author's first listed affiliation, from the author pop-ups (the page's `.author` elements contain the full affiliation strings);
    - the published abstract, section by section;

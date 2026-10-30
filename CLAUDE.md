@@ -13,6 +13,7 @@ Approval is per DOI and must come from the Editor typing it in this chat. Never 
 - **"Review pending RSTE posts"**: run `review`, then show each `pending_approval` item's PDF (or the three PNGs) and caption text, with title, authors and DOI. Also list `needs_manual_review` and `revision_requested` items with their reasons.
 - **"Approve <DOI>"**: run `approve <DOI>`. It refuses unless the DOI is `pending_approval` and the files are unchanged since review. Approval does **not** publish. Then ask: publish now, or add to the Buffer queue?
 - **"Revise <DOI>[: notes]"**: run `revise <DOI> "notes"`, edit `<name>-content.json` (or metadata, if a fact is wrong), rebuild with the skill's `build.py`, run `record-draft <DOI> "<folder>"`, and show the new draft. Approval is required again.
+- Drafts marked PROVISIONAL (built by scheduled runs from OpenAlex/Crossref, not the publisher page): before approving, compare the abstract and affiliations with tandfonline. If anything differs, treat it as "Revise": put the published wording into `<name>-metadata.json`, delete its `provisional` block, rebuild and `record-draft`. `retry <DOI>` returns a `needs_manual_review` article to `new`.
 - **"Reject <DOI>[: reason]"**: run `reject <DOI> "reason"`. The files are kept.
 
 ## Publishing an approved article (only after the Editor says "publish now" or "add to queue" for that DOI)

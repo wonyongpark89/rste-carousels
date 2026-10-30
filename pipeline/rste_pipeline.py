@@ -416,9 +416,16 @@ def cmd_record_draft(doi, folder):
                files={"pdf": rel(pdf), "caption": rel(cap), "cover": rel(cover)},
                hashes={"pdf": sha256(pdf), "caption": sha256(cap), "cover": sha256(cover)})
     rec.pop("approval", None)
-    event(rec, "draft_recorded", folder=rel(folder))
+    prov = m.get("provisional") if meta else None
+    if prov:
+        rec["provisional"] = prov
+    else:
+        rec.pop("provisional", None)
+    event(rec, "draft_recorded", folder=rel(folder), provisional=bool(prov))
     save_register(reg)
     print(f"{doi}: pending approval\n  {rel(pdf)}\n  {rel(cap)}")
+    if prov:
+        print(f"  PROVISIONAL: {'; '.join(prov['unverified'])}. {prov['action']}")
 
 
 def cmd_flag(doi, reason):
@@ -430,6 +437,19 @@ def cmd_flag(doi, reason):
     event(rec, "flagged", reason=reason)
     save_register(reg)
     print(f"{doi}: needs manual review - {reason}")
+
+
+def cmd_retry(doi):
+    """Put a needs_manual_review article back to `new` so the next run (or this session) builds it again."""
+    reg = load_register()
+    doi, rec = get_rec(reg, doi)
+    if rec["status"] != "needs_manual_review":
+        sys.exit(f"{doi} is {rec['status']}; only needs_manual_review articles can be retried.")
+    rec["status"] = "new"
+    rec.pop("manual_reason", None)
+    event(rec, "retry", status="new")
+    save_register(reg)
+    print(f"{doi}: back to new")
 
 
 def cmd_enqueue(doi):
@@ -477,6 +497,8 @@ def cmd_approve(doi):
     rec["approval"] = {"at": iso(), "by": "Editor, interactive Claude Code session", "doi": doi, "hashes": rec["hashes"]}
     event(rec, "approved")
     save_register(reg)
+    if rec.get("provisional"):
+        print("  Note: this draft was built from unverified sources (" + "; ".join(rec["provisional"]["unverified"]) + ").")
     print(f"{doi}: approved. Files are locked; publishing still needs a separate instruction (publish now or add to queue).")
 
 
@@ -651,6 +673,8 @@ def cmd_review():
             for k in ("manual_reason", "revision_note"):
                 if rec.get(k):
                     print(f"    {k}: {rec[k]}")
+            if rec.get("provisional"):
+                print(f"    PROVISIONAL (unverified): {'; '.join(rec['provisional']['unverified'])}. {rec['provisional']['action']}")
     print("\nCounts:", ", ".join(f"{k} {len(v)}" for k, v in sorted(groups.items())))
 
 
@@ -683,6 +707,9 @@ def cmd_report():
         L.append(f"    - Buffer draft: {r['buffer_draft_id']}" if r.get("buffer_draft_id") else "    - Buffer draft: none yet")
         for k, v in r.get("files", {}).items():
             L.append(f"    - {k}: `{v}`")
+        if r.get("provisional"):
+            L.append(f"    - PROVISIONAL: built without the publisher page. {r['provisional']['action']} "
+                     f"Unverified: {'; '.join(r['provisional']['unverified'])}.")
     if not by("pending_approval"):
         L.append("- None.")
     L += ["", "## Needs manual attention", ""]
@@ -717,6 +744,7 @@ def main(argv):
         "record-draft": lambda: cmd_record_draft(a[0], a[1]),
         "flag": lambda: cmd_flag(a[0], " ".join(a[1:]) or "unspecified"),
         "enqueue": lambda: cmd_enqueue(a[0]),
+        "retry": lambda: cmd_retry(a[0]),
         "approve": lambda: cmd_approve(a[0]),
         "revise": lambda: cmd_revise(a[0], " ".join(a[1:]) or "unspecified"),
         "reject": lambda: cmd_reject(a[0], " ".join(a[1:]) or "unspecified"),
