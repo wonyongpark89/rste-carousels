@@ -1,0 +1,16 @@
+{
+  "started": "2026-10-16T22:16:56Z",
+  "scheduled": true,
+  "dry_run": false,
+  "first_run": true,
+  "sources": {
+    "tandf_rss": "ok (116 items)",
+    "crossref": "ok (115 works created since 2025-09-11)"
+  },
+  "new": [],
+  "manual": [],
+  "issue_assigned": [],
+  "skipped": [],
+  "outcome": "baseline established with 118 articles; no drafts generated.",
+  "finished": "2026-10-16T22:16:59Z"
+}

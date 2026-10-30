@@ -1,0 +1,3308 @@
+{
+  "meta": {
+    "created": "2026-10-16T22:16:56Z",
+    "baseline_date": "2026-10-16",
+    "journal": "Research in Science & Technological Education",
+    "note": "First run recorded every article then visible as baseline; no posts generated for them.",
+    "last_success": "2026-10-26T06:53:38Z",
+    "last_run": "2026-10-26T06:53:38Z",
+    "last_sources": {
+      "tandf_rss": "ok (118 items)",
+      "crossref": "ok (9 works created since 2026-08-21)"
+    }
+  },
+  "articles": {
+    "10.1080/02635143.2026.2683376": {
+      "doi": "10.1080/02635143.2026.2683376",
+      "title": "The story of the photoelectric effect: an intervention study on the use of history and argumentative writing in physics teaching",
+      "authors": [
+        "Svein Ove Haugum Fagerheim",
+        "Berit Bungum"
+      ],
+      "online_date": "2026-06-05",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2683376",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2609626": {
+      "doi": "10.1080/02635143.2025.2609626",
+      "title": "Flipped learning in TRIZ-STEM: an investigation of preservice preschool teachers’ NoES, STEM-PCK, and TPACK competencies",
+      "authors": [
+        "Esra Betül Kölemen",
+        "Bekir Yıldırım"
+      ],
+      "online_date": "2025-12-25",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2609626",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2555184": {
+      "doi": "10.1080/02635143.2025.2555184",
+      "title": "The STEM curriculum integration through big ideas and learning progression Frameworks: attitudes and insights from teacher and student",
+      "authors": [
+        "Wenbo Deng",
+        "Gang Chen",
+        "Rui Feng"
+      ],
+      "online_date": "2025-09-01",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2555184",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2593936": {
+      "doi": "10.1080/02635143.2025.2593936",
+      "title": "To block or not to block? : a meta-analysis of effectiveness of block-based programming",
+      "authors": [
+        "Tarık Talan",
+        "Yunus Doğan",
+        "Yusuf Kalinkara",
+        "Veli Batdi"
+      ],
+      "online_date": "2025-11-26",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2593936",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2606400": {
+      "doi": "10.1080/02635143.2025.2606400",
+      "title": "Scientific reasoning in upper primary school students: development and validation of the ESRQ",
+      "authors": [
+        "Georgios Chionas",
+        "Anastassios Emvalotis"
+      ],
+      "online_date": "2025-12-22",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2606400",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2660365": {
+      "doi": "10.1080/02635143.2026.2660365",
+      "title": "Integrating socio-scientific issues in STEM education: science teachers’ decision-making processes and perspectives",
+      "authors": [
+        "Esra Bozkurt Altan",
+        "Nurhan Öztürk",
+        "İrfan Gümüş"
+      ],
+      "online_date": "2026-04-16",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2660365",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2628601": {
+      "doi": "10.1080/02635143.2026.2628601",
+      "title": "Interdisciplinary strategies in STE(A)M education: a critical analysis of curriculum and pedagogy",
+      "authors": [
+        "Shu Ching Yang",
+        "Yu Hsiang Hsueh",
+        "Shih-Chieh Hung"
+      ],
+      "online_date": "2026-02-07",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2628601",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2628607": {
+      "doi": "10.1080/02635143.2026.2628607",
+      "title": "The construction of scientists’ image in East Asian high school biology textbooks: a comparative analysis based on China, Japan and South Korea",
+      "authors": [
+        "Haifeng Wu",
+        "Ying Chen",
+        "Na Yu",
+        "Wenjun Zhang",
+        "Yue Zhao"
+      ],
+      "online_date": "2026-02-09",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2628607",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644979": {
+      "doi": "10.1080/02635143.2026.2644979",
+      "title": "Development and validation of a critical thinking assessment in climate change",
+      "authors": [
+        "Zainal Arifin",
+        "Sukarmin",
+        "Sulistyo Saputro"
+      ],
+      "online_date": "2026-03-19",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644979",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2573200": {
+      "doi": "10.1080/02635143.2025.2573200",
+      "title": "Experiences, challenges and recommendations from emergency remote learning: the perspectives of university chemistry students in a small island developing state",
+      "authors": [
+        "Faisal K. Mohammed",
+        "Yomica L. Powder-George",
+        "Devika J. Mohammed",
+        "Andrew Ramudit"
+      ],
+      "online_date": "2025-10-13",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2573200",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2611967": {
+      "doi": "10.1080/02635143.2025.2611967",
+      "title": "Enhancing elementary students’ question-asking skills with the KWLQ strategy in blended synchronous classrooms",
+      "authors": [
+        "Chao Zhang",
+        "Qianqian Gao",
+        "Yantao Wei",
+        "Mingwen Tong"
+      ],
+      "online_date": "2026-01-02",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2611967",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644977": {
+      "doi": "10.1080/02635143.2026.2644977",
+      "title": "Transforming STEM education: insights from Web 2.0 integration in pre-service preschool teacher training",
+      "authors": [
+        "Arzu Sönmez Eryaşar",
+        "Nagihan Tanık Önal"
+      ],
+      "online_date": "2026-03-17",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644977",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2571616": {
+      "doi": "10.1080/02635143.2025.2571616",
+      "title": "Conceptual understanding of gravity: comparison of effects of active learning and traditional learning",
+      "authors": [
+        "Jasmina Balukovic",
+        "Josip Sliško",
+        "Daniel Doz"
+      ],
+      "online_date": "2025-10-13",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2571616",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2724943": {
+      "doi": "10.1080/02635143.2026.2724943",
+      "title": "Comics as a tool for teaching alternative energy: effects on cognitive achievement, motivation, attitudes, and learning environment among sixth-grade students",
+      "authors": [
+        "Muhamad Hugerat",
+        "Anwar Zerini",
+        "Sare Asli",
+        "Dina Harb",
+        "Ahmad Basheer",
+        "Mira Dulle",
+        "Andrea Frantz-Pittner",
+        "Franz Rauch"
+      ],
+      "online_date": "2026-08-28",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2724943",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2631612": {
+      "doi": "10.1080/02635143.2026.2631612",
+      "title": "Is knowing technology enough? Barriers and perceptions of prospective teachers towards the use of technology in chemistry courses",
+      "authors": [
+        "Senem Çolak Yazıcı"
+      ],
+      "online_date": "2026-02-18",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2631612",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2609627": {
+      "doi": "10.1080/02635143.2025.2609627",
+      "title": "Developing STEM activities integrated POED model to improve students’ learning by doing",
+      "authors": [
+        "Jyun-Chen Chen",
+        "Shian-Yun Lo"
+      ],
+      "online_date": "2025-12-29",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2609627",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2656740": {
+      "doi": "10.1080/02635143.2026.2656740",
+      "title": "Complexity of concept diagrams for scientific reasoning in primary education",
+      "authors": [
+        "Tom van Eijck",
+        "Bert Bredeweg",
+        "Ron Oostdam",
+        "Bonne J. H. Zijlstra"
+      ],
+      "online_date": "2026-05-03",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2656740",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2649294": {
+      "doi": "10.1080/02635143.2026.2649294",
+      "title": "Enhancing students’ learning of the human nervous and endocrine system concepts through unplugged computational thinking approach",
+      "authors": [
+        "Aydan Aytekin",
+        "Mustafa Sami Topçu"
+      ],
+      "online_date": "2026-03-24",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2649294",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2597911": {
+      "doi": "10.1080/02635143.2025.2597911",
+      "title": "Development and validation of the Data Science Education Attitude Scale (DSEAS)",
+      "authors": [
+        "Woong Suh",
+        "Seongjin Ahn"
+      ],
+      "online_date": "2025-12-03",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2597911",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2573197": {
+      "doi": "10.1080/02635143.2025.2573197",
+      "title": "Lag sequential analysis of parent–child interactions in children’s museums",
+      "authors": [
+        "Xinghua Wang",
+        "Qiwen Li",
+        "Mengmeng Zhang",
+        "Yuzhuo Wang",
+        "Wang Qin"
+      ],
+      "online_date": "2025-10-17",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2573197",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2578303": {
+      "doi": "10.1080/02635143.2025.2578303",
+      "title": "Technology-enhanced “GipSci” approach in developing contexts performs well at\n                    interest\n                    and\n                    curiosity\n                    , yet, needs reinforcing at\n                    inquiry\n                    level",
+      "authors": [
+        "Bengi Birgili",
+        "Mehmet Akın Bulut",
+        "Oksana Gülünay",
+        "Merve Koçoğlu",
+        "Fatma Rüveyda Baş"
+      ],
+      "online_date": "2025-11-06",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2578303",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2640554": {
+      "doi": "10.1080/02635143.2026.2640554",
+      "title": "Development and application of a hybrid-format instrument for assessing critical thinking among high school students in Mainland China",
+      "authors": [
+        "Huangdong Ma",
+        "Yuan Gao",
+        "Hongbin Yang",
+        "Gaofeng Li"
+      ],
+      "online_date": "2026-03-08",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2640554",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2587789": {
+      "doi": "10.1080/02635143.2025.2587789",
+      "title": "The effects of interactivity and game elements in science assessment",
+      "authors": [
+        "Sue Ward",
+        "Jay Thomas",
+        "Micah James",
+        "Meirav Arieli-Attali"
+      ],
+      "online_date": "2025-11-12",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2587789",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2726378": {
+      "doi": "10.1080/02635143.2026.2726378",
+      "title": "Pathways to STEM aspirations: a multidimensional structural model of 9th-grade students",
+      "authors": [
+        "Shu Ching Yang",
+        "Shu-Jyun Liou",
+        "Chih-Ting Chang",
+        "Shih-Chieh Hung"
+      ],
+      "online_date": "2026-08-31",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2726378",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2633707": {
+      "doi": "10.1080/02635143.2026.2633707",
+      "title": "The influence of a continuous training program on Portuguese primary school teachers’ perceptions and attitudes toward experimental science teaching",
+      "authors": [
+        "Isabel Saúde",
+        "José Luís Araújo",
+        "Carla Morais"
+      ],
+      "online_date": "2026-02-18",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2633707",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2609625": {
+      "doi": "10.1080/02635143.2025.2609625",
+      "title": "The constructivist science classroom in a post-socialist context: a study of students’ perceptions in Bosnia and Herzegovina",
+      "authors": [
+        "Vlado Simeunovic",
+        "Sanja Milic"
+      ],
+      "online_date": "2025-12-25",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2609625",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2666567": {
+      "doi": "10.1080/02635143.2026.2666567",
+      "title": "Evaluating the effects of digital devices on mathematics and science achievement in East Asian elementary schools: evidence from TIMSS 2023",
+      "authors": [
+        "Yu Xiao",
+        "Li Zheng"
+      ],
+      "online_date": "2026-05-04",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2666567",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2613431": {
+      "doi": "10.1080/02635143.2026.2613431",
+      "title": "Gamification in Science Education: Mapping a decade of research through Bibliometric analysis",
+      "authors": [
+        "Kathryn Rai",
+        "Deep Jyoti Gurung"
+      ],
+      "online_date": "2026-01-09",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2613431",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2609624": {
+      "doi": "10.1080/02635143.2025.2609624",
+      "title": "Technological literacy and collective efficacy among junior high school students in technological creativity contests: a moderated mediation model of team collaboration and competition motivation",
+      "authors": [
+        "Chia-Ju Liu",
+        "Yu-Hung Wang"
+      ],
+      "online_date": "2025-12-25",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2609624",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644975": {
+      "doi": "10.1080/02635143.2026.2644975",
+      "title": "Effect of a STEM module integrated with computational thinking on problem-solving skills of 5-year-old children",
+      "authors": [
+        "Nazlı Ülker Hançer",
+        "Mustafa Sami Topçu"
+      ],
+      "online_date": "2026-03-19",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644975",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2727576": {
+      "doi": "10.1080/02635143.2026.2727576",
+      "title": "Gender and STEM: academic over-selection and stratified university entry",
+      "authors": [
+        "Albert Sánchez-Gelabert",
+        "Cristina Simarro Rodríguez"
+      ],
+      "online_date": "2026-09-02",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2727576",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2597915": {
+      "doi": "10.1080/02635143.2025.2597915",
+      "title": "Does the mode of an investigative tool matter?: preservice teachers’ perceptions of the credibility of cell images using actual vs. virtual light microscopes",
+      "authors": [
+        "Heesoo Ha",
+        "Phil Seok Oh"
+      ],
+      "online_date": "2025-12-04",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2597915",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2595206": {
+      "doi": "10.1080/02635143.2025.2595206",
+      "title": "Promoting gifted students’ creativity through design-based STEM activities",
+      "authors": [
+        "Fatma Coştu"
+      ],
+      "online_date": "2025-12-07",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2595206",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2606389": {
+      "doi": "10.1080/02635143.2025.2606389",
+      "title": "STEM for sustainability: a multi-faceted evaluation on pre-service preschool teachers’ sustainable designs",
+      "authors": [
+        "Filiz Gülhan"
+      ],
+      "online_date": "2025-12-26",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2606389",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2690844": {
+      "doi": "10.1080/02635143.2026.2690844",
+      "title": "Growth, diversity and shared responsibility in science and technological education research",
+      "authors": [
+        "Chris Harrison",
+        "Wonyong Park"
+      ],
+      "online_date": "2026-06-25",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2690844",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2646975": {
+      "doi": "10.1080/02635143.2026.2646975",
+      "title": "An overview of studies in environmental education: bibliometric analysis over the last decade",
+      "authors": [
+        "Ozlem Oktay",
+        "Mustafa Derman"
+      ],
+      "online_date": "2026-03-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2646975",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2606394": {
+      "doi": "10.1080/02635143.2025.2606394",
+      "title": "Utilizing argument-evidence discussions in teacher education to develop in-service elementary teachers’ socioscientific issue-based argumentation activity designs",
+      "authors": [
+        "Deniz Saribas",
+        "Ertan Çetinkaya"
+      ],
+      "online_date": "2025-12-24",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2606394",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2675672": {
+      "doi": "10.1080/02635143.2026.2675672",
+      "title": "Redesigning green chemistry instruction through the Sustainable Development Goals: a quasi-experimental study in Kazakhstan",
+      "authors": [
+        "Sandugash Suiirbay",
+        "Gulmira Abyzbekova",
+        "Canan Nakiboğlu"
+      ],
+      "online_date": "2026-05-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2675672",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2591117": {
+      "doi": "10.1080/02635143.2025.2591117",
+      "title": "Enhancing confidence and enjoyment: the power of capstone projects in early childhood robotics",
+      "authors": [
+        "Rina Zviel-Girshin",
+        "Nathan Rosenberg",
+        "Ida Kukliansky"
+      ],
+      "online_date": "2025-11-23",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2591117",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2620036": {
+      "doi": "10.1080/02635143.2026.2620036",
+      "title": "Leveraging social media for science education in China: teachers’ integration practices, perceived benefits, and implementation barriers",
+      "authors": [
+        "Xue Zhang"
+      ],
+      "online_date": "2026-01-29",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2620036",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2573871": {
+      "doi": "10.1080/02635143.2025.2573871",
+      "title": "Fostering STREAM literacy through international news events and problem-based learning: a mixed-methods study with rural seventh graders",
+      "authors": [
+        "Ping-Yun Cheng",
+        "Shu Ching Yang",
+        "Chiao Ling Huang"
+      ],
+      "online_date": "2025-10-24",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2573871",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2666531": {
+      "doi": "10.1080/02635143.2026.2666531",
+      "title": "Empirical profiling of high-school bilingual students’ perceptions of STEM learning environment",
+      "authors": [
+        "Hector Rivera",
+        "Heesun Chang",
+        "Amin Raeisi-Vanani",
+        "Yiming Zhu",
+        "Eun Hye Ko"
+      ],
+      "online_date": "2026-05-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2666531",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2657604": {
+      "doi": "10.1080/02635143.2026.2657604",
+      "title": "Teachers’ and children’s engagement with science content through digital tools in preschool settings",
+      "authors": [
+        "Maria Papantoni",
+        "Pernilla Nilsson"
+      ],
+      "online_date": "2026-04-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2657604",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2659179": {
+      "doi": "10.1080/02635143.2026.2659179",
+      "title": "Enhancing middle school students’ understanding of pure substances and mixtures through cooperative inquiry",
+      "authors": [
+        "Leman Alakoyun Karasakal",
+        "Özgecan Kırık",
+        "Eylem Yalçınkaya Önder"
+      ],
+      "online_date": "2026-04-15",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2659179",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2622383": {
+      "doi": "10.1080/02635143.2026.2622383",
+      "title": "Integrating green chemistry and systems thinking in secondary science education: a case study from Kazakhstan",
+      "authors": [
+        "Sandugash Suiirbay"
+      ],
+      "online_date": "2026-01-27",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2622383",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2611963": {
+      "doi": "10.1080/02635143.2025.2611963",
+      "title": "A gamified science classroom model: learning process analysis of a scaffolding-based gamified teaching model using card games, slides and learning sheets",
+      "authors": [
+        "Chang-Hsin Wu",
+        "Huei-Tse Hou"
+      ],
+      "online_date": "2026-01-02",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2611963",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2707471": {
+      "doi": "10.1080/02635143.2026.2707471",
+      "title": "The impact of STEM education on the scientific reasoning skills of pre-service science teachers with different cognitive styles",
+      "authors": [
+        "Feride Şahin",
+        "Yasemin Hacıoğlu"
+      ],
+      "online_date": "2026-07-22",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2707471",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2557931": {
+      "doi": "10.1080/02635143.2025.2557931",
+      "title": "Examining the diversity of scientific methods in the South African National Senior Certificate chemistry papers",
+      "authors": [
+        "Johnson Enero Upahi",
+        "Umesh Ramnarain",
+        "Tominiyi Patricia Alabi",
+        "Mutaheer Akangbe Jimoh"
+      ],
+      "online_date": "2025-09-11",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2557931",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2572479": {
+      "doi": "10.1080/02635143.2025.2572479",
+      "title": "Examination of the relationship between epistemological beliefs and self-efficacy levels of technology use in education of preschool teachers",
+      "authors": [
+        "Zeynep Güneş",
+        "Meral Taner Derman"
+      ],
+      "online_date": "2025-10-17",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2572479",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2673027": {
+      "doi": "10.1080/02635143.2026.2673027",
+      "title": "Rethinking inquiry-based practical work in rural science classrooms: teachers’ perceptions, practices, and guideline development",
+      "authors": [
+        "Thekganang Edith Lesetja",
+        "Patricia Photo"
+      ],
+      "online_date": "2026-05-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2673027",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2591195": {
+      "doi": "10.1080/02635143.2025.2591195",
+      "title": "Fostering computational and systems thinking skills in preschoolers through unplugged coding and engineering design activities",
+      "authors": [
+        "Seyma Degirmenci",
+        "Hasan Zuhtu Okulu",
+        "Halil Cokcaliskan",
+        "Alper Yorulmaz"
+      ],
+      "online_date": "2025-11-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2591195",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2561994": {
+      "doi": "10.1080/02635143.2025.2561994",
+      "title": "A systematic review of engineering practice in K-12 STEM studies",
+      "authors": [
+        "Natalie Kidd",
+        "Kok-Sing Tang",
+        "Kuen-Yi Lin"
+      ],
+      "online_date": "2025-09-18",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2561994",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2555196": {
+      "doi": "10.1080/02635143.2025.2555196",
+      "title": "‘I want to learn biology and preserve my culture’ testing the efficacy of a culturally relevant and context specific approach",
+      "authors": [
+        "Umar Adam",
+        "Musa Adekunle Ayanwale",
+        "Hafsat Mustapha",
+        "Sakibu Olajide Saibu",
+        "Tunde Owolabi",
+        "Adekunle Ibrahim Oladejo"
+      ],
+      "online_date": "2025-09-12",
+      "volume": "44",
+      "issue": "2",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2555196",
+      "seen_in": [
+        "crossref"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2675670": {
+      "doi": "10.1080/02635143.2026.2675670",
+      "title": "Developing higher order thinking skills through web-based activities supported by socioscientific Issues",
+      "authors": [
+        "Dilek Özbek",
+        "Oktay Aslan"
+      ],
+      "online_date": "2026-05-19",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2675670",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2567913": {
+      "doi": "10.1080/02635143.2025.2567913",
+      "title": "Nigerian biology teachers’ pedagogical orientations and practices in under-resourced laboratories in relation to students’ perceptions of the laboratory and attitude towards biology practical",
+      "authors": [
+        "Adenike Oladipo",
+        "Jeremiah Akhigbe",
+        "Uchenna Udeani"
+      ],
+      "online_date": "2025-09-30",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2567913",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2619082": {
+      "doi": "10.1080/02635143.2026.2619082",
+      "title": "The effect of project-based training on recycling awareness level",
+      "authors": [
+        "Hicret Çebi",
+        "Mustafa Arslan"
+      ],
+      "online_date": "2026-01-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2619082",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2656732": {
+      "doi": "10.1080/02635143.2026.2656732",
+      "title": "Robotics-based stem activities: effects on achievement, interest, and stem teacher identity",
+      "authors": [
+        "Emine Eren",
+        "İlbilge Dökme"
+      ],
+      "online_date": "2026-04-07",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2656732",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2656739": {
+      "doi": "10.1080/02635143.2026.2656739",
+      "title": "Designing inquiry-based teaching to enhance students’ scientific creativity: a collaborative case study with a biology teacher in a Chinese secondary school",
+      "authors": [
+        "Shiyu Xu",
+        "Michael J. Reiss",
+        "Wilton Lodge"
+      ],
+      "online_date": "2026-04-10",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2656739",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2634900": {
+      "doi": "10.1080/02635143.2026.2634900",
+      "title": "Examining the relationship between pre-service teachers’ pedagogical content knowledge and STEM literacy: an additive multiple moderation model",
+      "authors": [
+        "Anıl Ayseli Duran Dündar",
+        "Elif Sayıcı"
+      ],
+      "online_date": "2026-02-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2634900",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2572244": {
+      "doi": "10.1080/02635143.2025.2572244",
+      "title": "Correction",
+      "authors": [],
+      "online_date": "2025-10-09",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2572244",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2731035": {
+      "doi": "10.1080/02635143.2026.2731035",
+      "title": "Automated assessment of the nature of scientific inquiry (NOSI) using machine learning and transformer-based language models",
+      "authors": [
+        "Günkut Mesci",
+        "Xiaoming Zhai",
+        "Daniel K. Capps"
+      ],
+      "online_date": "2026-09-09",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2731035",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "pre_existing",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "folder": "article-carousels\\Mesci - Automated assessment of the nature of",
+      "buffer_draft_id": "6ad29d4b1694d771d50a778b",
+      "notes": "Buffer draft 6ad29d4b1694d771d50a778b created before this pipeline existed.",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "pre_existing"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2738944": {
+      "doi": "10.1080/02635143.2026.2738944",
+      "title": "Structural quality and scientific credibility in students’ arguments: a comparative analysis of supporting and opposing perspectives",
+      "authors": [
+        "Filiz Bezci"
+      ],
+      "online_date": "2026-09-28",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2738944",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2578308": {
+      "doi": "10.1080/02635143.2025.2578308",
+      "title": "The challenges encountered by preschool and primary educators in implementing educational robotics",
+      "authors": [
+        "Leonidas Gavrilas",
+        "Konstantinos T. Kotsis",
+        "Marianna –Sotiria Papanikolaou"
+      ],
+      "online_date": "2025-10-23",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2578308",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2533193": {
+      "doi": "10.1080/02635143.2025.2533193",
+      "title": "Revitalizing STEM Education: integrating STEM into National curricula with active learning",
+      "authors": [
+        "Miguel A. Brito",
+        "Micaela Aguiar",
+        "Sílvia Araújo",
+        "João Varajão",
+        "Carolina Santos"
+      ],
+      "online_date": "2025-07-16",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2533193",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2619088": {
+      "doi": "10.1080/02635143.2026.2619088",
+      "title": "Exploring the characteristics and group differences of students’ collective creativity in STEM education through epistemic network analysis",
+      "authors": [
+        "Shuwen Wang",
+        "Guoyi Liu",
+        "Kexin Yang",
+        "Li Zhao"
+      ],
+      "online_date": "2026-01-21",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2619088",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2655190": {
+      "doi": "10.1080/02635143.2026.2655190",
+      "title": "Towards a bibliometric mapping of equity in science education: unveiling trends, gaps and research directions (2000–2025)",
+      "authors": [
+        "Fatma Karaismailoglu"
+      ],
+      "online_date": "2026-04-06",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2655190",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2596237": {
+      "doi": "10.1080/02635143.2025.2596237",
+      "title": "Culturally relevant pedagogy laced with technological and contextual elements to lower anxiety and enhance retention of biology concepts",
+      "authors": [
+        "Franklin U. Onowugbeda",
+        "Adeleke M. Ige",
+        "Emmanuel Abiodun Ayoola",
+        "Umar A. Adam",
+        "Esther O. Peter",
+        "Deborah O. Agbanimu"
+      ],
+      "online_date": "2025-11-26",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2596237",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2609630": {
+      "doi": "10.1080/02635143.2025.2609630",
+      "title": "From inquiry to insight: analysing lower and upper secondary students’ questioning in geoscience education",
+      "authors": [
+        "Jan Flašar",
+        "Lenka Krajňáková",
+        "Martin Hanus"
+      ],
+      "online_date": "2026-01-13",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2609630",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644978": {
+      "doi": "10.1080/02635143.2026.2644978",
+      "title": "The impact of AR tools on collaborative inquiry in secondary biology education: an embodied cognition perspective",
+      "authors": [
+        "Su Cai",
+        "Haixia Li",
+        "Shumin Wu"
+      ],
+      "online_date": "2026-03-16",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644978",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644976": {
+      "doi": "10.1080/02635143.2026.2644976",
+      "title": "The impact of multimedia-based instruction on critical thinking development in chemistry education: a study on water industrial production and purification",
+      "authors": [
+        "Miloš Kozić",
+        "Dragica D. Trivic"
+      ],
+      "online_date": "2026-03-15",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644976",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2666533": {
+      "doi": "10.1080/02635143.2026.2666533",
+      "title": "Exploring the impact of digital vs. Print picture books on space science learning: a comparative study of “Mission to the Stars”",
+      "authors": [
+        "Joni Tzuchen Tang",
+        "Yan-Yu Jau"
+      ],
+      "online_date": "2026-05-12",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2666533",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2656728": {
+      "doi": "10.1080/02635143.2026.2656728",
+      "title": "The PIXEL board game: exploring dynamics of scientific research through game-based learning",
+      "authors": [
+        "Sara Ricciardi",
+        "Rachele Toniolo",
+        "Silvia Casu",
+        "Giovanni Contino",
+        "Giannandrea Inchingolo",
+        "Valentina La Parola",
+        "Riccardo Leoni",
+        "Andrea Ligabue",
+        "Michele Masini",
+        "Tommaso Francesco Piccinno",
+        "Alessandra Zanazzi",
+        "Stefania Varano"
+      ],
+      "online_date": "2026-04-17",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2656728",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2629962": {
+      "doi": "10.1080/02635143.2026.2629962",
+      "title": "Path analysis of influencing factors on scientific higher-order thinking of junior high school students: based on SEM and fsQCA",
+      "authors": [
+        "Lin Lin",
+        "Yuqing Chen",
+        "Jinghan Ren",
+        "Yunan Ding",
+        "Runjie Jiang",
+        "Jingying Wang"
+      ],
+      "online_date": "2026-02-17",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2629962",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2650795": {
+      "doi": "10.1080/02635143.2026.2650795",
+      "title": "A comparative study of chemistry and chemistry-related undergraduates’ conceptions of learning science and science learning self-efficacy: a multi-group analysis",
+      "authors": [
+        "Shu-Hao Wu",
+        "Jyh-Chong Liang",
+        "Chin-Chung Tsai"
+      ],
+      "online_date": "2026-03-31",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2650795",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2567910": {
+      "doi": "10.1080/02635143.2025.2567910",
+      "title": "Navigating school science fairs in the artificial intelligence age: a local fair transformed",
+      "authors": [
+        "Gökhan Kaya",
+        "Metin Şardağ",
+        "Gultekin Cakmakci"
+      ],
+      "online_date": "2025-09-30",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2567910",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2589331": {
+      "doi": "10.1080/02635143.2025.2589331",
+      "title": "Refining virtual laboratory on liquid–liquid extraction and thin-layer chromatography for building students’ laboratory skills",
+      "authors": [
+        "Habiddin Habiddin",
+        "Fithrah Auliya",
+        "Putri Rismawati",
+        "Ika Nazih Januar Fitri",
+        "Irma Kartika Kusumaningrum",
+        "Hanumi Oktiyani Rusdi"
+      ],
+      "online_date": "2025-11-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2589331",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2597916": {
+      "doi": "10.1080/02635143.2025.2597916",
+      "title": "VR helmets in primary education and its impact on students critical thinking",
+      "authors": [
+        "Xufeng Chen"
+      ],
+      "online_date": "2025-12",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2597916",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2546984": {
+      "doi": "10.1080/02635143.2025.2546984",
+      "title": "Empirical investigation of critical factors influencing ChatGPT integration in contemporary technology education",
+      "authors": [
+        "Ming Yuan Hsieh"
+      ],
+      "online_date": "2025-09-15",
+      "volume": "44",
+      "issue": "2",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2546984",
+      "seen_in": [
+        "crossref"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2564246": {
+      "doi": "10.1080/02635143.2025.2564246",
+      "title": "The relationships among teacher support, peer support, students’ resilience and attainment value in a STEAM competition",
+      "authors": [
+        "Xinyue Fang",
+        "Yuanmeng Zhan",
+        "Xiaodong Jiang"
+      ],
+      "online_date": "2025-09-22",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2564246",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2714365": {
+      "doi": "10.1080/02635143.2026.2714365",
+      "title": "Science identity and its predictors among high school students",
+      "authors": [
+        "İsmail Dönmez",
+        "Salih Gülen",
+        "Mehmet Latif Candemir"
+      ],
+      "online_date": "2026-08-06",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2714365",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2628604": {
+      "doi": "10.1080/02635143.2026.2628604",
+      "title": "Shaping STEM attitudes: the impact of a Makerspace experience on Primary preservice teachers",
+      "authors": [
+        "Maeve Stevenson",
+        "Helen Georgiou",
+        "Elise Van Der Jagt",
+        "Anne F. J. Hellwig"
+      ],
+      "online_date": "2026-02-09",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2628604",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2586627": {
+      "doi": "10.1080/02635143.2025.2586627",
+      "title": "Exploring high school students’ inquiry skills level and regional differences in STEM learning",
+      "authors": [
+        "Zhiwen Xu",
+        "Man Ho Chan"
+      ],
+      "online_date": "2025-11-11",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2586627",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2644982": {
+      "doi": "10.1080/02635143.2026.2644982",
+      "title": "An analysis of changes in the representation of the Nature of Science in Japanese grade10–grade12 science textbooks",
+      "authors": [
+        "Haifeng Wu",
+        "Yanfang Xie",
+        "Na Yu",
+        "Zengjiao Li",
+        "Wei Zhang",
+        "Yingyu Li"
+      ],
+      "online_date": "2026-03-14",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2644982",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2660370": {
+      "doi": "10.1080/02635143.2026.2660370",
+      "title": "Exploring the impact of STEM education based on engineering design process model on Eighth Graders’ engineering thinking and engineering career interest",
+      "authors": [
+        "Xiangying Xue",
+        "Xiangcong Liu",
+        "Nur Jahan Ahmad"
+      ],
+      "online_date": "2026-04-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2660370",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2586564": {
+      "doi": "10.1080/02635143.2025.2586564",
+      "title": "Assessment tasks in STEM education: integrating Bloom’s Revised Taxonomy and Cognitive Load Theory",
+      "authors": [
+        "Gulbakhyt Sultanova"
+      ],
+      "online_date": "2025-11-10",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2586564",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2561977": {
+      "doi": "10.1080/02635143.2025.2561977",
+      "title": "Enhancing students’ achievement and scientific literacy through technology-enhanced learning in science education: a meta-analysis",
+      "authors": [
+        "Yin-Die Li",
+        "Jian-Hong Wu"
+      ],
+      "online_date": "2025-09-18",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2561977",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2533194": {
+      "doi": "10.1080/02635143.2025.2533194",
+      "title": "The impact of STEAM project design on higher-order thinking: a meta-analysis",
+      "authors": [
+        "Tugen Xu",
+        "Xinzhu Ge",
+        "Qi Gao",
+        "Jijian Lu"
+      ],
+      "online_date": "2025-07-17",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2533194",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2721678": {
+      "doi": "10.1080/02635143.2026.2721678",
+      "title": "Fostering equity in STEM education through educational robotics: evidence from disadvantaged middle school classrooms",
+      "authors": [
+        "Mehmet Fatih Özkol",
+        "Sahin Idil",
+        "Mustafa Pehlivan"
+      ],
+      "online_date": "2026-08-27",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2721678",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2628613": {
+      "doi": "10.1080/02635143.2026.2628613",
+      "title": "Developing and implementing a STEM-based assessment tool to measure higher-order cognitive skills in science education",
+      "authors": [
+        "Çağrı Avan",
+        "Bahattin Aydinli"
+      ],
+      "online_date": "2026-02-10",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2628613",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2575910": {
+      "doi": "10.1080/02635143.2025.2575910",
+      "title": "The effect of SCAMPER activities on 7th grade students’ creative thinking, science achievement and perceptions*",
+      "authors": [
+        "Ahmet Volkan Yüzüak",
+        "Recep Recepkethüda"
+      ],
+      "online_date": "2025-10-23",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2575910",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2656737": {
+      "doi": "10.1080/02635143.2026.2656737",
+      "title": "Transforming science education: the role of virtual labs in improving learning outcomes for diverse learners",
+      "authors": [
+        "Wen Quan",
+        "Wong Wei Lun",
+        "Zhang Shixue",
+        "Muammer Aksoy",
+        "Huang Donghai",
+        "Hai Tao"
+      ],
+      "online_date": "2026-04-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2656737",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2603292": {
+      "doi": "10.1080/02635143.2025.2603292",
+      "title": "Green chemistry in secondary education: a systematic review of global trends, pedagogical approaches, and implementation challenges",
+      "authors": [
+        "Sandugash Suiirbay"
+      ],
+      "online_date": "2025-12-16",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2603292",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2669559": {
+      "doi": "10.1080/02635143.2026.2669559",
+      "title": "Psychometric properties of self-efficacy scales in early STEM education and teaching engineering",
+      "authors": [
+        "Ahmet Erol",
+        "Merve Canbeldek Erol",
+        "Özge Özcan",
+        "Ayşegül Öğütcen",
+        "Asiye İvrendi"
+      ],
+      "online_date": "2026-05-06",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2669559",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2577160": {
+      "doi": "10.1080/02635143.2025.2577160",
+      "title": "Enhancing interdisciplinary STEM education through action research: implementing the POLAT algorithm for effective problem-solving",
+      "authors": [
+        "Dilber Polat"
+      ],
+      "online_date": "2025-10-25",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2577160",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2709511": {
+      "doi": "10.1080/02635143.2026.2709511",
+      "title": "Developing and applying a rubric to evaluate students’ conceptions of STEM careers",
+      "authors": [
+        "Tian Luo",
+        "Yingzhi Zhang",
+        "Qi Huang",
+        "Wing-mui Winnie So"
+      ],
+      "online_date": "2026-08-03",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2709511",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2640566": {
+      "doi": "10.1080/02635143.2026.2640566",
+      "title": "A TPACK-based intervention to improve pre-service STEM teacher’s pedagogical and disciplinary knowledge: a pre-experimental field study",
+      "authors": [
+        "José-María Romero-Rodríguez",
+        "Irene Trapero-González",
+        "María-Pilar Cáceres-Reche",
+        "Alejandro Martínez-Menéndez"
+      ],
+      "online_date": "2026-03-04",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2640566",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2586596": {
+      "doi": "10.1080/02635143.2025.2586596",
+      "title": "The underrepresentation of Chemistry in the preferences of primary school teachers in Portugal: challenges and perspectives from a continuing professional development programme",
+      "authors": [
+        "Isabel Saúde",
+        "José Luís Araújo",
+        "Carla Morais"
+      ],
+      "online_date": "2025-11-11",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2586596",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2619086": {
+      "doi": "10.1080/02635143.2026.2619086",
+      "title": "Science teachers’ opinions and experiences on the use of digital stories in teaching socio-scientific issues",
+      "authors": [
+        "Melike Kerek",
+        "Nurhan Öztürk"
+      ],
+      "online_date": "2026-01-19",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2619086",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2686222": {
+      "doi": "10.1080/02635143.2026.2686222",
+      "title": "The effect of science activities utilizing Web 2.0 applications on primary school students׳ achievement and attitude: an experimental study",
+      "authors": [
+        "Seda Özer",
+        "Aslı Eşme",
+        "Esra Ünlüer"
+      ],
+      "online_date": "2026-06-10",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2686222",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2657036": {
+      "doi": "10.1080/02635143.2026.2657036",
+      "title": "Profiles of inquiry-based instructional strategies in Austrian primary school science education",
+      "authors": [
+        "Doris Neubauer-Hametner",
+        "Heike Wendt",
+        "Daniel Kasper"
+      ],
+      "online_date": "2026-05-19",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2657036",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "pre_existing",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "folder": "article-carousels\\Neubauer-Hametner - Profiles of inquiry-based instructional strategies in",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "pre_existing"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2571617": {
+      "doi": "10.1080/02635143.2025.2571617",
+      "title": "Scaffolding practices for public health-related mathematical modelling instruction in STEM trails with immersive technology",
+      "authors": [
+        "Adi Nur Cahyono",
+        "Chatila Maharani",
+        "Muhammad Iqbal",
+        "Zsolt Lavicza",
+        "Wanty Widjaja",
+        "And Houssam Kasti"
+      ],
+      "online_date": "2025-10-10",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2571617",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2581049": {
+      "doi": "10.1080/02635143.2025.2581049",
+      "title": "The mediating role of cognitive, social and radical constructivism between hands-on making self-efficacy and motivation for continuous improvement in an iSTEM competition",
+      "authors": [
+        "Jon-Chao Hong",
+        "Pin-Hui Jiang",
+        "Po-Hsi Chen"
+      ],
+      "online_date": "2025-10-30",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2581049",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2629963": {
+      "doi": "10.1080/02635143.2026.2629963",
+      "title": "STEM creativity: research trends and emerging themes",
+      "authors": [
+        "Aydın Bulut",
+        "Sibel Oğuz Haçat"
+      ],
+      "online_date": "2026-02-12",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2629963",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2742294": {
+      "doi": "10.1080/02635143.2026.2742294",
+      "title": "Comparing the effectiveness of Science Writing Heuristic and Model-based Science Writing Heuristic laboratory activities on problem-solving perceptions of pre-service elementary teachers",
+      "authors": [
+        "Nejla Atabey"
+      ],
+      "online_date": "2026-10-02",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2742294",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2620038": {
+      "doi": "10.1080/02635143.2026.2620038",
+      "title": "Evaluating students and teachers perceptions of engine mock-ups as instructional tools in STEM education",
+      "authors": [
+        "Isiaka A. Raheem",
+        "Michael A. Fakomogbon",
+        "Oyeronke O. Ogunlade",
+        "Mudasiru O. Yusuf",
+        "Ayotunde A. Falade",
+        "Ganiyat P. Raheem-Folayinka"
+      ],
+      "online_date": "2026-01-29",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2620038",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2597908": {
+      "doi": "10.1080/02635143.2025.2597908",
+      "title": "The natural development of students’ understanding of the nature of science without purposeful intervention in everyday science teaching",
+      "authors": [
+        "Lichun Gai",
+        "Yuqing Chen",
+        "Zheng Yang",
+        "Jingying Wang",
+        "Zhimeng Jiang",
+        "Feng Deng",
+        "Yuanyuan Tian",
+        "Judith Lederman"
+      ],
+      "online_date": "2025-12-16",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2597908",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2622389": {
+      "doi": "10.1080/02635143.2026.2622389",
+      "title": "The nature of science in genetics education: a historical analysis of Japanese high school biology textbooks, 1963–2023",
+      "authors": [
+        "Haifeng Wu",
+        "Tengteng Bao",
+        "Na Yu",
+        "Yiran Ding",
+        "Xiangsheng Dai",
+        "Zengjiao Li",
+        "Wei Zhang",
+        "Yingyu Li"
+      ],
+      "online_date": "2026-01-30",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2622389",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2603296": {
+      "doi": "10.1080/02635143.2025.2603296",
+      "title": "The effect of socioscientific argumentation training on pre-service science teachers’ knowledge of and willingness to act on climate change",
+      "authors": [
+        "Bahadir Namdar",
+        "Sinem Toraman",
+        "Sultan Adam"
+      ],
+      "online_date": "2025-12-18",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2603296",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2563051": {
+      "doi": "10.1080/02635143.2025.2563051",
+      "title": "An application of propensity score analysis with structural equation modeling: effects of post-secondary students’ expectations about STEM careers on college success",
+      "authors": [
+        "Amal Alhadabi"
+      ],
+      "online_date": "2025-09-23",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2563051",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2575903": {
+      "doi": "10.1080/02635143.2025.2575903",
+      "title": "Technology-supported specialist co-teaching in primary STEM education: effects on Chinese students’ attitudes, learning engagement, and career aspirations",
+      "authors": [
+        "Yu Wei Chen",
+        "Jing Lu Liu"
+      ],
+      "online_date": "2025-10-22",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2575903",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2673025": {
+      "doi": "10.1080/02635143.2026.2673025",
+      "title": "Effectiveness of Humanities and Social Science courses on science and engineering undergraduates: shaping educational dynamics through creative pedagogy",
+      "authors": [
+        "Reena Cheruvalath",
+        "Geetha Bakilapadavu",
+        "Hareesh AG"
+      ],
+      "online_date": "2026-05-12",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2673025",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2689008": {
+      "doi": "10.1080/02635143.2026.2689008",
+      "title": "The effect of an online-guided inquiry approach on students’ science achievement, retention, reading comprehension and scientific process skills",
+      "authors": [
+        "Cansu Özcan",
+        "Berna Gücüm"
+      ],
+      "online_date": "2026-06-17",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2689008",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2561992": {
+      "doi": "10.1080/02635143.2025.2561992",
+      "title": "The timing of digital games in STEM instruction: effects on learning outcomes, collaborative problem-solving, intrinsic motivation, cognitive load, and learning behavior",
+      "authors": [
+        "Ching-Huei Chen",
+        "Cheng-Huan Chen"
+      ],
+      "online_date": "2025-09-18",
+      "volume": "44",
+      "issue": "3",
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2561992",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2025.2603291": {
+      "doi": "10.1080/02635143.2025.2603291",
+      "title": "The effect of instructional activities and collaborative tasks on interest and effort in a climate change education module",
+      "authors": [
+        "Rauno Neito",
+        "E. Vilhunen",
+        "J. Lavonen",
+        "V-M. Vesterinen"
+      ],
+      "online_date": "2025-12-15",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2025.2603291",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2646965": {
+      "doi": "10.1080/02635143.2026.2646965",
+      "title": "Empowering STEM teaching through community of practice: impacts on teacher self-efficacy and student outcomes in place-based education",
+      "authors": [
+        "Jung Han",
+        "J. Geoff Knowles",
+        "Todd R Kelley"
+      ],
+      "online_date": "2026-03-22",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2646965",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2669549": {
+      "doi": "10.1080/02635143.2026.2669549",
+      "title": "The AI turn in science: a reflexive thematic analysis of scientists’ commentaries and educational implications",
+      "authors": [
+        "Ho Yin Chan",
+        "Sibel Erduran"
+      ],
+      "online_date": "2026-05-08",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2669549",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2673026": {
+      "doi": "10.1080/02635143.2026.2673026",
+      "title": "The effect of Web 2.0 supported 5E model on student learning: a study of the ‘Human Circulatory System’",
+      "authors": [
+        "Nurdan Akgun",
+        "Seyda Gul"
+      ],
+      "online_date": "2026-05-13",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2673026",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2716779": {
+      "doi": "10.1080/02635143.2026.2716779",
+      "title": "Navigating the inquiry paradox in primary science: an adaptive scaffolding framework for enhancing creative thinking skills",
+      "authors": [
+        "Rivan Gestiardi",
+        "Subanji",
+        "Toto Nusantara",
+        "Muhammad Alfan"
+      ],
+      "online_date": "2026-08-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2716779",
+      "seen_in": [
+        "crossref",
+        "tandf_rss"
+      ],
+      "status": "baseline",
+      "first_detected": "2026-10-16T22:16:56Z",
+      "events": [
+        {
+          "at": "2026-10-16T22:16:59Z",
+          "event": "baseline",
+          "status": "baseline"
+        }
+      ]
+    },
+    "10.1080/02635143.2026.2743248": {
+      "doi": "10.1080/02635143.2026.2743248",
+      "title": "Teaching science to students with learning disabilities: teacher and student views on the food unit",
+      "authors": [
+        "Tuğba Pürsün",
+        "Gizem Türkoğlu Boyvat"
+      ],
+      "online_date": "2026-10-20",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2743248",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-26T06:52:51Z",
+      "status": "pending_approval",
+      "events": [
+        {
+          "at": "2026-10-26T06:53:38Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-26T06:56:45Z",
+          "event": "draft_recorded",
+          "folder": "article-carousels\\Pürsün - Teaching science to students with learning"
+        },
+        {
+          "at": "2026-10-26T06:58:09Z",
+          "event": "buffer_draft_created",
+          "buffer_post_id": "6adef9fbe4fd2be3e6581cd2",
+          "buffer_status": "draft"
+        }
+      ],
+      "folder": "article-carousels\\Pürsün - Teaching science to students with learning",
+      "files": {
+        "pdf": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-carousel.pdf",
+        "caption": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-caption.txt",
+        "cover": "article-carousels\\Pürsün - Teaching science to students with learning\\pursun-slide-1.png"
+      },
+      "hashes": {
+        "pdf": "d3dfc162b74f3267bd302618f55874dbe111075f5b20b60e68d4a9731338d0de",
+        "caption": "4e094185d906e5bae3bd0ef19dd82fd0ea83db1cd6063e5c1cb11362cb3f0483",
+        "cover": "9992f2367d7f010ede09d94bbd8314bf7f9c56fc23a6eb0023cb3b29ebb4a01b"
+      },
+      "buffer_draft_id": "6adef9fbe4fd2be3e6581cd2",
+      "buffer_draft_status": "draft",
+      "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2743248/pursun-carousel.pdf",
+      "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2743248/pursun-cover.png"
+    },
+    "10.1080/02635143.2026.2752293": {
+      "doi": "10.1080/02635143.2026.2752293",
+      "title": "Enhancing project-based chemistry learning in rural schools through virtual and augmented reality: evidence from Kazakhstan",
+      "authors": [
+        "Nailya Shertayeva",
+        "Bibigul Shagrayeva",
+        "Yerman Shertayev",
+        "Akkongyr Zhylysbayeva",
+        "Elmira Amirbekova"
+      ],
+      "online_date": "2026-10-23",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2752293",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-10-26T06:52:51Z",
+      "status": "pending_approval",
+      "events": [
+        {
+          "at": "2026-10-26T06:53:38Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-10-26T06:56:45Z",
+          "event": "draft_recorded",
+          "folder": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural"
+        }
+      ],
+      "folder": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural",
+      "files": {
+        "pdf": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-carousel.pdf",
+        "caption": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-caption.txt",
+        "cover": "article-carousels\\Shertayeva - Enhancing project-based chemistry learning in rural\\shertayeva-slide-1.png"
+      },
+      "hashes": {
+        "pdf": "4a9d80b7c149b378142ea7799ec296f3bba62e59e4b9a8633d1aadc1f3f0cfd2",
+        "caption": "d5cfa507078d91207e5de926c6c8050a5bf66cb6aed8d9a6a8e284fa12485e25",
+        "cover": "128e17d7d2f0d35d9a4c60aae3000422014ed0d1d863416284a8c64b54dc389d"
+      }
+    }
+  }
+}

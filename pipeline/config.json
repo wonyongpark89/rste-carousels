@@ -1,0 +1,16 @@
+{
+  "toc_url": "https://www.tandfonline.com/toc/crst20/0/0",
+  "rss_url": "https://www.tandfonline.com/feed/rss/crst20",
+  "issn_print": "0263-5143",
+  "issn_online": "1470-1138",
+  "crossref_mailto": "",
+  "lookback_days": 60,
+  "baseline_lookback_days": 400,
+  "pre_baseline_grace_days": 7,
+  "host_repo": ".",
+  "host_base_url": "https://www.wonyongpark.com/rste-carousels",
+  "buffer_channel_id": "6ad29a21778b240e2f2fd578",
+  "buffer_channel_name": "Research in Science & Technological Education (LinkedIn Page)",
+  "buffer_channel_must_be": "LinkedIn Page (organisation), never a personal profile",
+  "notify_to": "wypark5121@gmail.com"
+}
