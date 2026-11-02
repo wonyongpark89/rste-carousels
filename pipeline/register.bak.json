@@ -4,8 +4,8 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-10-30T21:23:33Z",
-    "last_run": "2026-10-30T21:23:33Z",
+    "last_success": "2026-11-02T03:11:10Z",
+    "last_run": "2026-11-02T03:11:10Z",
     "last_sources": {
       "tandf_rss": "ok (120 items)",
       "crossref": "ok (9 works created since 2026-08-31)"
@@ -3356,6 +3356,12 @@
           "event": "draft_recorded",
           "folder": "article-carousels/Liu - Could AI-agents improve college students’ scientific",
           "provisional": true
+        },
+        {
+          "at": "2026-10-30T21:25:21Z",
+          "event": "buffer_draft_created",
+          "buffer_post_id": "6ae50b3e406ab8a0188321f8",
+          "buffer_status": "draft"
         }
       ],
       "folder": "article-carousels/Liu - Could AI-agents improve college students’ scientific",
@@ -3377,7 +3383,11 @@
           "keywords (OpenAlex; no publisher keywords)"
         ],
         "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
-      }
+      },
+      "buffer_draft_id": "6ae50b3e406ab8a0188321f8",
+      "buffer_draft_status": "draft",
+      "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2753076/liu-carousel.pdf",
+      "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2753076/liu-cover.png"
     },
     "10.1080/02635143.2026.2754282": {
       "doi": "10.1080/02635143.2026.2754282",
@@ -3396,7 +3406,7 @@
         "tandf_rss"
       ],
       "first_detected": "2026-10-30T21:05:54Z",
-      "status": "new",
+      "status": "pending_approval",
       "events": [
         {
           "at": "2026-10-30T21:06:36Z",
@@ -3413,8 +3423,34 @@
           "at": "2026-10-30T21:13:46Z",
           "event": "retry",
           "status": "new"
+        },
+        {
+          "at": "2026-11-02T03:12:25Z",
+          "event": "draft_recorded",
+          "folder": "article-carousels/Chen - Developing a questionnaire to measure junior",
+          "provisional": true
         }
-      ]
+      ],
+      "folder": "article-carousels/Chen - Developing a questionnaire to measure junior",
+      "files": {
+        "pdf": "article-carousels/Chen - Developing a questionnaire to measure junior/chen-carousel.pdf",
+        "caption": "article-carousels/Chen - Developing a questionnaire to measure junior/chen-caption.txt",
+        "cover": "article-carousels/Chen - Developing a questionnaire to measure junior/chen-slide-1.png"
+      },
+      "hashes": {
+        "pdf": "bc1ec83e60b327b349c2255dd5cf19a5deffdbcd4c689298f09d0794e7b901d8",
+        "caption": "5a13d4a3dc3b762e7925c94327c71deb437b0691e00d7415093e16df251dcc3b",
+        "cover": "89387e2a9dbf91756d33515c1a3c21a2e9619143951daee20cac34d73fadcfda"
+      },
+      "provisional": {
+        "created": "2026-11-02",
+        "unverified": [
+          "abstract (OpenAlex reconstruction, headings restored)",
+          "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+          "keywords (OpenAlex; no publisher keywords)"
+        ],
+        "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+      }
     }
   }
 }

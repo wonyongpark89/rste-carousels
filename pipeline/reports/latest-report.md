@@ -1,4 +1,4 @@
-# RSTE new-article check - 2026-10-30 21:23 UTC
+# RSTE new-article check - 2026-11-02 03:11 UTC
 
 - Run type: scheduled
 - Outcome: 0 new, 0 for manual review, 0 skipped.
@@ -28,10 +28,16 @@
     - caption: `article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-caption.txt`
     - cover: `article-carousels/Liu - Could AI-agents improve college students’ scientific/liu-slide-1.png`
     - PROVISIONAL: built without the publisher page. Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording. Unverified: abstract (OpenAlex reconstruction, headings restored); affiliation_first and affiliation_display (Crossref short form, not the full published affiliation); keywords (OpenAlex; no publisher keywords).
+- 10.1080/02635143.2026.2754282  [pending_approval]  Chen - Developing a questionnaire to measure junior high school students’ online science capital  (online 2026-10-30)
+    - Buffer draft: 6ae7ffc2ab5edfbf4a50500c
+    - pdf: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-carousel.pdf`
+    - caption: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-caption.txt`
+    - cover: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-slide-1.png`
+    - PROVISIONAL: built without the publisher page. Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording. Unverified: abstract (OpenAlex reconstruction, headings restored); affiliation_first and affiliation_display (Crossref short form, not the full published affiliation); keywords (OpenAlex; no publisher keywords).
 
 ## Needs manual attention
 
-- 10.1080/02635143.2026.2754282  [new]  Chen - Developing a questionnaire to measure junior high school students’ online science capital  (online 2026-10-30) - 
+- None.
 
 ## Issue assignment noted (no new post)
 

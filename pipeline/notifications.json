@@ -23,6 +23,10 @@
     "draft:10.1080/02635143.2026.2753076:6ae50b3e406ab8a0188321f8": {
       "at": "2026-10-30T21:25:31Z",
       "gmail_message_id": "1a18eb40b150f35f"
+    },
+    "draft:10.1080/02635143.2026.2754282:6ae7ffc2ab5edfbf4a50500c": {
+      "at": "2026-11-02T03:13:21Z",
+      "gmail_message_id": "1a19a3f38463528b"
     }
   },
   "attempts": [
@@ -63,6 +67,18 @@
       ],
       "keys": [
         "draft:10.1080/02635143.2026.2753076:6ae50b3e406ab8a0188321f8"
+      ]
+    },
+    {
+      "at": "2026-11-02T03:13:21Z",
+      "result": "sent",
+      "gmail_message_id": "1a19a3f38463528b",
+      "subject": "[RSTE LinkedIn] 1 post ready for review",
+      "to": [
+        "wypark5121@gmail.com"
+      ],
+      "keys": [
+        "draft:10.1080/02635143.2026.2754282:6ae7ffc2ab5edfbf4a50500c"
       ]
     }
   ]

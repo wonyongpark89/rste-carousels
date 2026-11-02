@@ -1,0 +1,93 @@
+{
+  "doi": "10.1080/02635143.2026.2754282",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2754282",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2754282",
+  "journal": "Research in Science & Technological Education",
+  "title": "Developing a questionnaire to measure junior high school students’ online science capital",
+  "type": "journal-article",
+  "published_online": "2026-10-30",
+  "published_print": null,
+  "volume": null,
+  "issue": null,
+  "pages": "1-21",
+  "authors": [
+    {
+      "name": "Wei-Shou Chen",
+      "given": "Wei-Shou",
+      "family": "Chen",
+      "orcid": "https://orcid.org/0009-0003-0672-6937",
+      "affiliation_crossref": "National Taiwan Normal University",
+      "affiliation_first": "National Taiwan Normal University, Taipei, Taiwan",
+      "affiliation_display": "National Taiwan Normal University, Taiwan"
+    },
+    {
+      "name": "Chin‑Chung Tsai",
+      "given": "Chin‑Chung",
+      "family": "Tsai",
+      "orcid": "https://orcid.org/0000-0001-7744-9971",
+      "affiliation_crossref": "National Taiwan Normal University",
+      "affiliation_first": "National Taiwan Normal University, Taipei, Taiwan",
+      "affiliation_display": "National Taiwan Normal University, Taiwan"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Science capital explains the science-related resources students possess, but online science learning introduces conditions such as device access, online resources, digital participation, and digitally mediated support. This study conceptualized online science capital as a context-sensitive extension of Archer et al.’s science capital framework. Purpose: This study reported the initial exploratory development of an online science capital questionnaire for junior high school students and examined gender differences and relationships with science study and job aspirations. Sample: Participants were 364 Taiwanese junior high school students, including 178 males and 186 females.Design and methods The questionnaire was developed from Bourdieu’s theory of capital, Archer et al.’s framework, and computer science capital literature. It covered four dimensions: science-related online cultural, behavioral, economic, and social capital. Students completed the questionnaire and two aspiration items. Exploratory factor analysis, reliability analysis, t tests, correlations, and hierarchical regressions were conducted. Results: The analyses provided preliminary evidence for eight sub-dimensions for assessing students’ online science capital: online scientific competency, online science learning attitude, online science self-efficacy, online science learning behaviors, online science resource affordance, online science investments, online science networking, and parental online science support. Male students scored higher than females in online science self-efficacy and online science investments. Correlation and hierarchical regression analyses showed that online science capital was positively associated with science aspirations. Social, economic, and behavioral capital were significant predictors in earlier models, but several became non-significant after cultural capital was entered. In the final models, online science learning attitude and online science self-efficacy remained significant positive predictors of both study and job aspirations. Conclusion: These findings suggest that science-related online cultural capital may be the dimension most closely associated with aspirations. The questionnaire can help educators identify students’ online science resources and design more equitable support for online science learning.",
+    "source": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2754282 (reconstructed; unverified)",
+    "sections": [
+      {
+        "heading": "Background",
+        "text": "Science capital explains the science-related resources students possess, but online science learning introduces conditions such as device access, online resources, digital participation, and digitally mediated support. This study conceptualized online science capital as a context-sensitive extension of Archer et al.’s science capital framework."
+      },
+      {
+        "heading": "Purpose",
+        "text": "This study reported the initial exploratory development of an online science capital questionnaire for junior high school students and examined gender differences and relationships with science study and job aspirations."
+      },
+      {
+        "heading": "Sample",
+        "text": "Participants were 364 Taiwanese junior high school students, including 178 males and 186 females.Design and methods The questionnaire was developed from Bourdieu’s theory of capital, Archer et al.’s framework, and computer science capital literature. It covered four dimensions: science-related online cultural, behavioral, economic, and social capital. Students completed the questionnaire and two aspiration items. Exploratory factor analysis, reliability analysis, t tests, correlations, and hierarchical regressions were conducted."
+      },
+      {
+        "heading": "Results",
+        "text": "The analyses provided preliminary evidence for eight sub-dimensions for assessing students’ online science capital: online scientific competency, online science learning attitude, online science self-efficacy, online science learning behaviors, online science resource affordance, online science investments, online science networking, and parental online science support. Male students scored higher than females in online science self-efficacy and online science investments. Correlation and hierarchical regression analyses showed that online science capital was positively associated with science aspirations. Social, economic, and behavioral capital were significant predictors in earlier models, but several became non-significant after cultural capital was entered. In the final models, online science learning attitude and online science self-efficacy remained significant positive predictors of both study and job aspirations."
+      },
+      {
+        "heading": "Conclusion",
+        "text": "These findings suggest that science-related online cultural capital may be the dimension most closely associated with aspirations. The questionnaire can help educators identify students’ online science resources and design more equitable support for online science learning."
+      }
+    ]
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "science capital",
+    "junior high school students",
+    "questionnaire development",
+    "gender differences",
+    "science aspirations",
+    "career aspirations",
+    "Bourdieu's theory of capital",
+    "parental support",
+    "digital participation"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2754282",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2754282",
+      "retrieved": "2026-11-02"
+    }
+  ],
+  "missing": [],
+  "provisional": {
+    "created": "2026-11-02",
+    "unverified": [
+      "abstract (OpenAlex reconstruction, headings restored)",
+      "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+      "keywords (OpenAlex; no publisher keywords)"
+    ],
+    "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+  }
+}

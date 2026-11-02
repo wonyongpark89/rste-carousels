@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2754282",
+  "pages": {
+    "investigate": [
+      "Science capital describes students’ science-related resources, but online learning adds conditions such as ==device access and digital participation==.",
+      "The authors developed a ==questionnaire on online science capital== from Bourdieu’s theory and Archer et al.’s framework.",
+      "It was completed by ==364 Taiwanese junior high school students== alongside two aspiration items."
+    ],
+    "find": [
+      "The analyses gave preliminary evidence for ==eight sub-dimensions== of online science capital.",
+      "Males scored higher than females in ==online science self-efficacy and online science investments==.",
+      "Online science capital was ==positively associated with science aspirations==; learning attitude and self-efficacy remained significant predictors of study and job aspirations."
+    ]
+  },
+  "caption": {
+    "emoji": "🔍",
+    "question": "What resources do students draw on when they learn science online?",
+    "intro": "Chen and Tsai report the initial development of **an online science capital questionnaire** with 364 Taiwanese junior high school students and examine its links to science aspirations.",
+    "hashtags": ["ScienceEducation", "ScienceCapital", "OnlineLearning", "ScienceAspirations", "QuestionnaireDevelopment", "JuniorHighSchool", "GenderAndScience", "EducationalResearch", "STEMEducation"]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose, Sample and Design and methods sections of the abstract.",
+    "find": "Results section of the abstract.",
+    "caption": "Purpose and Sample sections of the abstract."
+  }
+}
