@@ -4,11 +4,11 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-11-02T03:11:10Z",
-    "last_run": "2026-11-02T03:11:10Z",
+    "last_success": "2026-11-09T03:06:20Z",
+    "last_run": "2026-11-09T03:06:20Z",
     "last_sources": {
-      "tandf_rss": "ok (120 items)",
-      "crossref": "ok (9 works created since 2026-08-31)"
+      "tandf_rss": "ok (121 items)",
+      "crossref": "ok (8 works created since 2026-09-03)"
     }
   },
   "articles": {
@@ -3429,6 +3429,12 @@
           "event": "draft_recorded",
           "folder": "article-carousels/Chen - Developing a questionnaire to measure junior",
           "provisional": true
+        },
+        {
+          "at": "2026-11-02T03:13:09Z",
+          "event": "buffer_draft_created",
+          "buffer_post_id": "6ae7ffc2ab5edfbf4a50500c",
+          "buffer_status": "draft"
         }
       ],
       "folder": "article-carousels/Chen - Developing a questionnaire to measure junior",
@@ -3444,6 +3450,63 @@
       },
       "provisional": {
         "created": "2026-11-02",
+        "unverified": [
+          "abstract (OpenAlex reconstruction, headings restored)",
+          "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+          "keywords (OpenAlex; no publisher keywords)"
+        ],
+        "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+      },
+      "buffer_draft_id": "6ae7ffc2ab5edfbf4a50500c",
+      "buffer_draft_status": "draft",
+      "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2754282/chen-carousel.pdf",
+      "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2754282/chen-cover.png"
+    },
+    "10.1080/02635143.2026.2755470": {
+      "doi": "10.1080/02635143.2026.2755470",
+      "title": "Enhancing science learning through choice and prior knowledge: a mixed-methods study on fluvial processes using a stream table",
+      "authors": [
+        "Shing-Fung Chung",
+        "Chi-Chang Liu"
+      ],
+      "online_date": "2026-11-04",
+      "volume": null,
+      "issue": null,
+      "type": "journal-article",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2755470",
+      "seen_in": [
+        "tandf_rss",
+        "crossref"
+      ],
+      "first_detected": "2026-11-09T03:05:59Z",
+      "status": "pending_approval",
+      "events": [
+        {
+          "at": "2026-11-09T03:06:20Z",
+          "event": "detected",
+          "status": "new",
+          "why": "first online publication detected"
+        },
+        {
+          "at": "2026-11-09T03:07:30Z",
+          "event": "draft_recorded",
+          "folder": "article-carousels/Chung - Enhancing science learning through choice and",
+          "provisional": true
+        }
+      ],
+      "folder": "article-carousels/Chung - Enhancing science learning through choice and",
+      "files": {
+        "pdf": "article-carousels/Chung - Enhancing science learning through choice and/chung-carousel.pdf",
+        "caption": "article-carousels/Chung - Enhancing science learning through choice and/chung-caption.txt",
+        "cover": "article-carousels/Chung - Enhancing science learning through choice and/chung-slide-1.png"
+      },
+      "hashes": {
+        "pdf": "0814c916ba910472f03fa311ecdb239e3a683ec9a4703fc280026520e2d23b7e",
+        "caption": "2aa6d0aa0a527f0cf87d7b928af36614b7b845fa859e3f1fa2facbb387b48847",
+        "cover": "a51c52bd73b0ae5f453f64668d92e4530e289767eafca4f17ba736d720bee4df"
+      },
+      "provisional": {
+        "created": "2026-11-09",
         "unverified": [
           "abstract (OpenAlex reconstruction, headings restored)",
           "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",

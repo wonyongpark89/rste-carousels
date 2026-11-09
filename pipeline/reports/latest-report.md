@@ -1,14 +1,14 @@
-# RSTE new-article check - 2026-11-02 03:11 UTC
+# RSTE new-article check - 2026-11-09 03:06 UTC
 
 - Run type: scheduled
-- Outcome: 0 new, 0 for manual review, 0 skipped.
-- Source tandf_rss: ok (120 items)
-- Source crossref: ok (9 works created since 2026-08-31)
+- Outcome: 1 new, 0 for manual review, 0 skipped.
+- Source tandf_rss: ok (121 items)
+- Source crossref: ok (8 works created since 2026-09-03)
 - Nothing was published or queued. Buffer drafts, if any, are listed below.
 
 ## Newly detected articles
 
-- None.
+- 10.1080/02635143.2026.2755470  [pending_approval]  Chung - Enhancing science learning through choice and prior knowledge: a mixed-methods study on fluvial processes using a stream table  (online 2026-11-04)
 
 ## Drafts awaiting approval
 
@@ -33,6 +33,12 @@
     - pdf: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-carousel.pdf`
     - caption: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-caption.txt`
     - cover: `article-carousels/Chen - Developing a questionnaire to measure junior/chen-slide-1.png`
+    - PROVISIONAL: built without the publisher page. Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording. Unverified: abstract (OpenAlex reconstruction, headings restored); affiliation_first and affiliation_display (Crossref short form, not the full published affiliation); keywords (OpenAlex; no publisher keywords).
+- 10.1080/02635143.2026.2755470  [pending_approval]  Chung - Enhancing science learning through choice and prior knowledge: a mixed-methods study on fluvial processes using a stream table  (online 2026-11-04)
+    - Buffer draft: 6af1393d0361dbda74b42dd6
+    - pdf: `article-carousels/Chung - Enhancing science learning through choice and/chung-carousel.pdf`
+    - caption: `article-carousels/Chung - Enhancing science learning through choice and/chung-caption.txt`
+    - cover: `article-carousels/Chung - Enhancing science learning through choice and/chung-slide-1.png`
     - PROVISIONAL: built without the publisher page. Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording. Unverified: abstract (OpenAlex reconstruction, headings restored); affiliation_first and affiliation_display (Crossref short form, not the full published affiliation); keywords (OpenAlex; no publisher keywords).
 
 ## Needs manual attention
