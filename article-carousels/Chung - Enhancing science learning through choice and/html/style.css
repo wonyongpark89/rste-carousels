@@ -1,0 +1,116 @@
+/* RSTE article carousel — design template (shared by every article)
+   Visual identity: the RSTE issue-cover orange in flat fields against warm white,
+   Archivo heavy oblique capitals for headings, plain Archivo for reading text.
+   Each page is 1080 × 1350 px (4:5). Article content never lives in this file. */
+
+@font-face { font-family: "Archivo"; font-weight: 400; font-style: normal; src: url("fonts/archivo-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Archivo"; font-weight: 500; font-style: normal; src: url("fonts/archivo-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Archivo"; font-weight: 700; font-style: normal; src: url("fonts/archivo-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Archivo"; font-weight: 800; font-style: italic; src: url("fonts/archivo-800-italic.woff2") format("woff2"); }
+@font-face { font-family: "Archivo"; font-weight: 900; font-style: italic; src: url("fonts/archivo-900-italic.woff2") format("woff2"); }
+
+:root {
+  --orange: #f6892a;      /* RSTE issue cover */
+  --paper: #f7f5f1;       /* warm white */
+  --ink: #120c06;
+  --font: "Archivo", "Arial Narrow", sans-serif;
+  --m: 72px;              /* outer margin */
+  --gap: 48px;            /* clearance from a colour division */
+  --split: 760px;         /* page 1: orange above, white below */
+  --band: 336px;          /* pages 2–3: orange heading band */
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1080px; height: 1350px; background: var(--paper); }
+body { color: var(--ink); font-family: var(--font); -webkit-font-smoothing: antialiased; font-kerning: normal; }
+
+.slide { position: relative; width: 1080px; height: 1350px; overflow: hidden; background: var(--paper); }
+.slide::before { content: ""; position: absolute; left: 0; right: 0; top: 0; background: var(--field, var(--orange)); }
+.article::before { height: var(--split); }
+.section::before { height: var(--band); }
+.slide > * { position: absolute; }
+
+.shout { font-weight: 900; font-style: italic; text-transform: uppercase; letter-spacing: -0.015em; word-spacing: 0.14em; }
+
+.folio { right: var(--m); top: calc(var(--m) + 6px); font: 700 26px/1 var(--font); letter-spacing: 0.06em; }
+
+/* ---------- page 1: article details ---------- */
+.journal {
+  left: var(--m); right: 260px; top: var(--m);
+  font: italic 800 34px/1.05 var(--font); text-transform: uppercase; letter-spacing: -0.005em; word-spacing: 0.12em;
+}
+/* the title box: fit.js shrinks the type until the title fits; it sits on the field's foot */
+.title-box {
+  left: var(--m); right: var(--m);
+  top: 232px; bottom: calc(1350px - var(--split) + var(--gap));
+  display: flex; flex-direction: column; justify-content: flex-end; align-items: flex-start;
+}
+/* "New article" tag: a flat ink label set directly above the title */
+.tag {
+  flex: none; margin-bottom: 30px; padding: 12px 16px 11px;
+  background: var(--ink); color: var(--paper);
+  font: 700 26px/1 var(--font); letter-spacing: 0.14em; text-transform: uppercase;
+}
+.title { font: italic 800 72px/1.06 var(--font); letter-spacing: -0.012em; text-wrap: balance; hyphens: none; }
+
+.byline-box {
+  left: var(--m); right: var(--m);
+  top: calc(var(--split) + var(--gap)); bottom: 300px;
+}
+.authors { font: 700 42px/1.22 var(--font); }
+.authors sup, .affils sup { font-size: 0.62em; font-weight: 700; vertical-align: 0.55em; line-height: 0; margin-left: 2px; }
+.affils { margin-top: 26px; font: 400 32px/1.3 var(--font); list-style: none; }
+.affils li + li { margin-top: 10px; }
+.affils sup { margin: 0 8px 0 0; }
+
+.doi { left: var(--m); right: var(--m); bottom: 196px; font: 700 34px/1.1 var(--font); letter-spacing: -0.005em; }
+.doi span { font-weight: 500; }
+
+.foot { left: var(--m); right: var(--m); bottom: var(--m); display: flex; justify-content: space-between; align-items: flex-end; }
+.publisher { display: block; height: 76px; width: auto; }
+
+/* ---------- pages 2–3: questions ---------- */
+.heading {
+  left: var(--m); right: 200px; top: auto;
+  bottom: calc(1350px - var(--band) + var(--gap));
+  font-size: 80px; line-height: 0.9;
+}
+/* the bullets sit centred between the heading band and the citation rule, not top-aligned */
+.body-box {
+  left: var(--m); right: var(--m); top: calc(var(--band) + 48px); bottom: 216px;
+  display: flex; flex-direction: column; justify-content: center;
+}
+.body { font: 400 46px/1.36 var(--font); letter-spacing: -0.003em; text-wrap: pretty; hyphens: none; }
+
+/* bullets: a hand-drawn orange star hung in the margin of the text column */
+.points { list-style: none; }
+.points li { position: relative; padding-left: 1.25em; }
+.points li + li { margin-top: 0.72em; }
+.points li::before {
+  content: ""; position: absolute; left: -0.04em; top: 0.22em;
+  width: 0.82em; height: 0.82em;
+  background: url("bullet.svg") no-repeat center / 100% 100%;
+}
+
+/* highlight: a translucent marigold marker stroke over the lower part of the words,
+   drawn by hand (highlight.svg); clones onto each line when a phrase wraps */
+mark.hl {
+  color: inherit; background: url("highlight.svg") no-repeat 0 88% / 100% 0.98em;
+  padding: 0 0.12em; margin: 0 -0.06em;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone;
+}
+
+.cite {
+  left: var(--m); right: var(--m); bottom: var(--m);
+  border-top: 3px solid var(--ink); padding-top: 22px;
+  font: 500 26px/1.3 var(--font);
+}
+.cite b { font-weight: 700; }
+.nb { white-space: nowrap; }
+
+/* ---------- series: From the Archive ----------
+   Same layout; a light green field instead of the cover orange, deep-green stars,
+   a pale lime marker. Ink type and the warm-white ground are unchanged. */
+.series-archive { --field: #c3e4b5; }
+.series-archive .points li::before { background-image: url("bullet-archive.svg"); }
+.series-archive mark.hl { background-image: url("highlight-archive.svg"); }

@@ -1,0 +1,26 @@
+{
+  "doi": "10.1080/02635143.2026.2755470",
+  "pages": {
+    "investigate": [
+      "Learning in science may depend on ==students’ individual background== and the autonomy the learning environment gives them.",
+      "Using Falk and Dierking’s Contextual Model of Learning, the authors examined ==prior knowledge and degrees of choice control== during a hands-on activity.",
+      "==Thirty-six university students== ran simulated experiments on fluvial processes with a stream table."
+    ],
+    "find": [
+      "Both groups showed ==significant gains in interest and knowledge==; students with prior lessons used correct scientific terminology more often.",
+      "A ==limited choice== setting fostered the most collaborative problem-solving, compared with no choice.",
+      "==Free choice== stimulated the greatest curiosity and creativity but often led to off-topic engagement."
+    ]
+  },
+  "caption": {
+    "emoji": "🔬",
+    "question": "How much choice should students have in hands-on science activities?",
+    "intro": "Chung and Liu studied **prior knowledge and degrees of choice control** among 36 university students using a stream table to explore fluvial processes.",
+    "hashtags": ["ScienceEducation", "StudentChoice", "PriorKnowledge", "HandsOnLearning", "FluvialProcesses", "MixedMethods", "StudentEngagement", "HigherEducation", "EducationalResearch"]
+  },
+  "source_notes": {
+    "investigate": "Background, Purpose and Sample, design and methods sections of the abstract.",
+    "find": "Results section of the abstract.",
+    "caption": "Purpose and Sample, design and methods sections of the abstract."
+  }
+}

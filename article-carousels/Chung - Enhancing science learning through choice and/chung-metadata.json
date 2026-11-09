@@ -1,0 +1,91 @@
+{
+  "doi": "10.1080/02635143.2026.2755470",
+  "doi_url": "https://doi.org/10.1080/02635143.2026.2755470",
+  "publisher_url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2755470",
+  "journal": "Research in Science & Technological Education",
+  "title": "Enhancing science learning through choice and prior knowledge: a mixed-methods study on fluvial processes using a stream table",
+  "type": "journal-article",
+  "published_online": "2026-11-04",
+  "published_print": null,
+  "volume": null,
+  "issue": null,
+  "pages": "1-22",
+  "authors": [
+    {
+      "name": "Shing-Fung Chung",
+      "given": "Shing-Fung",
+      "family": "Chung",
+      "orcid": null,
+      "affiliation_crossref": "WWF Hong Kong",
+      "affiliation_first": "WWF Hong Kong, Hong Kong, China",
+      "affiliation_display": "WWF Hong Kong, China"
+    },
+    {
+      "name": "Chi-Chang Liu",
+      "given": "Chi-Chang",
+      "family": "Liu",
+      "orcid": "https://orcid.org/0009-0005-8248-3855",
+      "affiliation_crossref": "National Taiwan University",
+      "affiliation_first": "National Taiwan University, Taipei, Taiwan",
+      "affiliation_display": "National Taiwan University, Taiwan"
+    }
+  ],
+  "abstract": {
+    "text": "Background: Learning in science often hinges on the interplay between individual background and the degree of autonomy provided in the learning environment. Purpose: This study applied Falk & Dierking’s Contextual Model of Learning and investigates the impact of two personal contextual factors – prior knowledge and degrees of choice control – on students’ learning outcomes and engagement during a hands-on science activity.Sample, design and methods Utilizing a ‘stream table’ as a pedagogical technological tool, a sample of 36 university students participated in simulated experiments on fluvial processes. A mixed-methods factorial design was employed, structuring participants into six subgroups based on the timing of instruction (prior vs. post-lesson) and three degrees of choice control (No, Limited and Free Choice). Data collection integrated pre- and post-questionnaires, video observations and semi-structured interviews. Results: Quantitative results indicate that while both prior-lesson and post-lesson groups showed significant improvement in interest (p < 0.01) and knowledge (p < 0.01), students with prior lessons demonstrated a significantly higher frequency in using correct scientific terminology during the activity (U = 27, p < 0.05). Qualitatively, the findings reveal that a ‘Limited Choice’ environment fosters the highest level of collaborative problem-solving and meaningful application of prior experience compared with ‘No Choice’ settings. Conversely, ‘Free Choice’ stimulated the greatest curiosity and creativity but often led to off-topic engagement. Conclusion: These findings suggest that balancing instructional guidance with limited choice offers particular pedagogical affordances for supporting collaborative engagement and conceptual integration, helping learners meaningfully connect personal experiences with hands-on technological tasks.",
+    "source": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2755470 (reconstructed; unverified)",
+    "sections": [
+      {
+        "heading": "Background",
+        "text": "Learning in science often hinges on the interplay between individual background and the degree of autonomy provided in the learning environment."
+      },
+      {
+        "heading": "Purpose",
+        "text": "This study applied Falk & Dierking’s Contextual Model of Learning and investigates the impact of two personal contextual factors – prior knowledge and degrees of choice control – on students’ learning outcomes and engagement during a hands-on science activity.Sample, design and methods Utilizing a ‘stream table’ as a pedagogical technological tool, a sample of 36 university students participated in simulated experiments on fluvial processes. A mixed-methods factorial design was employed, structuring participants into six subgroups based on the timing of instruction (prior vs. post-lesson) and three degrees of choice control (No, Limited and Free Choice). Data collection integrated pre- and post-questionnaires, video observations and semi-structured interviews."
+      },
+      {
+        "heading": "Results",
+        "text": "Quantitative results indicate that while both prior-lesson and post-lesson groups showed significant improvement in interest (p < 0.01) and knowledge (p < 0.01), students with prior lessons demonstrated a significantly higher frequency in using correct scientific terminology during the activity (U = 27, p < 0.05). Qualitatively, the findings reveal that a ‘Limited Choice’ environment fosters the highest level of collaborative problem-solving and meaningful application of prior experience compared with ‘No Choice’ settings. Conversely, ‘Free Choice’ stimulated the greatest curiosity and creativity but often led to off-topic engagement."
+      },
+      {
+        "heading": "Conclusion",
+        "text": "These findings suggest that balancing instructional guidance with limited choice offers particular pedagogical affordances for supporting collaborative engagement and conceptual integration, helping learners meaningfully connect personal experiences with hands-on technological tasks."
+      }
+    ]
+  },
+  "publisher_keywords": [],
+  "openalex_keywords": [
+    "prior knowledge",
+    "student choice",
+    "fluvial processes",
+    "hands-on science learning",
+    "contextual learning model",
+    "student engagement",
+    "collaborative problem solving",
+    "curiosity",
+    "conceptual blending",
+    "university science education",
+    "instructional guidance"
+  ],
+  "sources": [
+    {
+      "what": "title, authors, author order, ORCID, short affiliations, dates",
+      "url": "https://api.crossref.org/works/10.1080/02635143.2026.2755470",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "what": "abstract (reconstructed), keywords",
+      "url": "https://api.openalex.org/works/doi:10.1080/02635143.2026.2755470",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "missing": [],
+  "provisional": {
+    "created": "2026-11-09",
+    "unverified": [
+      "abstract (OpenAlex reconstruction, headings restored)",
+      "affiliation_first and affiliation_display (Crossref short form, not the full published affiliation)",
+      "keywords (OpenAlex; no publisher keywords)"
+    ],
+    "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
+  }
+}
