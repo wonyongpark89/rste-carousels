@@ -3492,6 +3492,12 @@
           "event": "draft_recorded",
           "folder": "article-carousels/Chung - Enhancing science learning through choice and",
           "provisional": true
+        },
+        {
+          "at": "2026-11-09T03:08:48Z",
+          "event": "buffer_draft_created",
+          "buffer_post_id": "6af1393d0361dbda74b42dd6",
+          "buffer_status": "draft"
         }
       ],
       "folder": "article-carousels/Chung - Enhancing science learning through choice and",
@@ -3513,7 +3519,11 @@
           "keywords (OpenAlex; no publisher keywords)"
         ],
         "action": "Compare the abstract and affiliations with the tandfonline page before approving; if they differ, 'Revise' with the published wording."
-      }
+      },
+      "buffer_draft_id": "6af1393d0361dbda74b42dd6",
+      "buffer_draft_status": "draft",
+      "pdf_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2755470/chung-carousel.pdf",
+      "cover_url": "https://www.wonyongpark.com/rste-carousels/carousels/02635143.2026.2755470/chung-cover.png"
     }
   }
 }

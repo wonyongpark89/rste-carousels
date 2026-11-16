@@ -1,14 +1,14 @@
-# RSTE new-article check - 2026-11-09 03:06 UTC
+# RSTE new-article check - 2026-11-16 03:06 UTC
 
 - Run type: scheduled
-- Outcome: 1 new, 0 for manual review, 0 skipped.
+- Outcome: 0 new, 0 for manual review, 0 skipped.
 - Source tandf_rss: ok (121 items)
-- Source crossref: ok (8 works created since 2026-09-03)
+- Source crossref: ok (7 works created since 2026-09-10)
 - Nothing was published or queued. Buffer drafts, if any, are listed below.
 
 ## Newly detected articles
 
-- 10.1080/02635143.2026.2755470  [pending_approval]  Chung - Enhancing science learning through choice and prior knowledge: a mixed-methods study on fluvial processes using a stream table  (online 2026-11-04)
+- None.
 
 ## Drafts awaiting approval
 

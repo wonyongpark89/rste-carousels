@@ -4,11 +4,11 @@
     "baseline_date": "2026-10-16",
     "journal": "Research in Science & Technological Education",
     "note": "First run recorded every article then visible as baseline; no posts generated for them.",
-    "last_success": "2026-11-09T03:06:20Z",
-    "last_run": "2026-11-09T03:06:20Z",
+    "last_success": "2026-11-16T03:06:52Z",
+    "last_run": "2026-11-16T03:06:52Z",
     "last_sources": {
       "tandf_rss": "ok (121 items)",
-      "crossref": "ok (8 works created since 2026-09-03)"
+      "crossref": "ok (7 works created since 2026-09-10)"
     }
   },
   "articles": {
@@ -3475,8 +3475,8 @@
       "type": "journal-article",
       "url": "https://www.tandfonline.com/doi/full/10.1080/02635143.2026.2755470",
       "seen_in": [
-        "tandf_rss",
-        "crossref"
+        "crossref",
+        "tandf_rss"
       ],
       "first_detected": "2026-11-09T03:05:59Z",
       "status": "pending_approval",
